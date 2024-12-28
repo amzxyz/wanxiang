@@ -266,6 +266,7 @@ chinese_english:
   option_name: chinese_english
   opencc_config: chinese_english.json
   tips: char
+  show_in_comment: true
   comment_format:
     - "xform/-/ /"
 
