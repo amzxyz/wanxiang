@@ -81,7 +81,6 @@ sort: by_weight
 班戈	bān;wl;ww;dw,ww;au,aa;mg;nn;gy;ww; gē;yp;ad;ad;aa,ha;ii;pg;ag;ad;	452
 班玛	bān;wl;ww;dw,ww;au,aa;mg;nn;gy;ww; mǎ;wm;wm;wm;az;mm;nn;gc;wm;	458
 板桥	bǎn;my;my;mf;wl;de,xe;er;sr;ly; qiáo;ml;ml;mq;wp;dl;ep;st;lq;	644
-蚌山	bàng;if;if;if;fa;lj;ca;jd;if; shān;kl;lk;aa;pp;uu;vs;mm;aa;	252
 宝安	bǎo;by;by;by;ia;ji;wi;pg;gy; ān;bn;bn;bn;iy;jv;wb;pv;gn;	656
 保德	bǎo;rm;rm;rd;xw;od;je;wk;rl; dé;rx;ix;xx;hn;hp;wh;tf;rx;	533
 宝坻	bǎo;by;by;by;ia;ji;wi;pg;gy; dǐ;tu;td;td;gh;gm,gi;gi;fq;td;	577
@@ -102,6 +101,7 @@ sort: by_weight
 褒忠	bāo;ym;wy;wy,yb;ih;yv;te;yw;wh; zhōng;vx;vx;xv;on;lp;dh;kh;vx;	428
 北安	běi;lb;lb;ap,bj;la;lp;av;ux;ab; ān;bn;bn;bn;iy;jv;wb;pv;gn;	542
 北碚	běi;lb;lb;ap,bj;la;lp;av;ux;ab; bèi;uk;uk;uk,up;to;mr;md;du;uk;	538
+北埔	běi;lb;lb;ap,bj;la;lp;av;ux;ab; bù;tf;tf;tf;gh;gb;gn;fg;tf;	458
 北辰	běi;lb;lb;ap,bj;la;lp;av;ux;ab; chén;iy;in;iy;rh;mv;fc;df;ih;	603
 北川	běi;lb;lb;ap,bj;la;lp;av;ux;ab; chuān;pl;pl;pa;up;ll;oc;kt;pa;	570
 北斗	běi;lb;lb;ap,bj;la;lp;av;ux;ab; dǒu;ud;du;du;hs;yj;jd;uf;du;	683
@@ -117,7 +117,6 @@ sort: by_weight
 北门	běi;lb;lb;ap,bj;la;lp;av;ux;ab; mén;dv;dv;dg;oo;ls;am;uy;dv;	655
 卑南	bēi;pu;pu;pa,up;ss;hj;un;rt;pu; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu;	527
 北票	běi;lb;lb;ap,bj;la;lp;av;ux;ab; piào;xu;xx;xu;pi;mf;vf;sf;xx;	436
-北埔	běi;lb;lb;ap,bj;la;lp;av;ux;ab; pǔ;tf;tf;tf;gh;gb;gn;fg;tf;	458
 北区	běi;lb;lb;ap,bj;la;lp;av;ux;ab; qū;kx;kx;ki;dr;sk;nb;aq;kx;	710
 北塔	běi;lb;lb;ap,bj;la;lp;av;ux;ab; tǎ;tk;tk;td,th;go;gr;gd;fa;tk;	467
 北投	běi;lb;lb;ap,bj;la;lp;av;ux;ab; tóu;fu;fy;fu;jl;qe;ur;rm;fy;	565
@@ -125,6 +124,7 @@ sort: by_weight
 北镇	běi;lb;lb;ap,bj;la;lp;av;ux;ab; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	514
 本溪	běn;ma;aa;aa,ma;wd;dm;ef;sg;aa; xī;dd;dd;dx;kx;ek;km;ie;dd;	599
 蚌埠	bèng;if;if;if;fa;lj;ca;jd;if; bù;tu;tu;tf,tu;gs;gj;gn;fw;tu;	624
+蚌山	bèng;if;if;if;fa;lj;ca;jd;if; shān;kl;lk;aa;pp;uu;vs;mm;aa;	252
 碧江	bì;wu;wu;ub,up;at;mr;nm;gr;wk; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	436
 毕节	bì;bu;bu;bu,ub;as;pj;vn;xx;bu; jié;ce;ce;ce;zb;tl;lz;ab;ce;	562
 比如	bǐ;bb;bb;bb;aa;pp;vv;xx;bb; rú;nk;nk;nk;yo;vr;bd;vk;nk;	980
@@ -156,7 +156,10 @@ sort: by_weight
 亳州	bó;wq;wq;wq,wt;ia;yp;gr;yp;wq; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	572
 播州	bò;ft;ft;ff;jw;qw;uq;rt;ft; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	479
 布袋	bù;uj;uj;ju,uj;sy;kb;nr;dm;aj; dài;ry;ry;yd;xk;ov;jt;wa;rh;	637
+埔里	bù;tf;tf;tf;gh;gb;gn;fg;tf; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa;	543
 布拖	bù;uj;uj;ju,uj;sy;kb;nr;dm;aj; tuō;fy;fy;fy;jr;qd;ue;rt;fy;	340
+埔心	bù;tf;tf;tf;gh;gb;gn;fg;tf; xīn;dd;dd;dd;nn;pp;hx;ny;dd;	462
+埔盐	bù;tf;tf;tf;gh;gb;gn;fg;tf; yán;tm;tm;mb;ga;gt;ga;fh;tm;	412
 蔡甸	cài;cu;cx;cj;zi;tf;lf;aw;cx; diān;bt;bt;gt,tg;uw;pw;nq;ql;pt;	485
 苍南	cāng;cv;cv;cc;zt;tu;lz;aw;cv; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu;	545
 仓山	cāng;rv;rv;re;et;ou;jz;wb;rv; shān;kl;lk;aa;pp;uu;vs;mm;aa;	556
@@ -182,7 +185,7 @@ sort: by_weight
 长滨	cháng;pn;pn;pd;uh;po;pc;ta;pn; bīn;db;db;db;kf;ec;kh;ip;db;	492
 长春	cháng;pn;pn;pd;uh;po;pc;ta;pn; chūn;io;fo;of,fo;uv;qa;ao;dw;ao;	785
 常德	cháng;xj;xj;jk,xd,dd;hy;fb;sr;ip;ej; dé;rx;ix;xx;hn;hp;wh;tf;rx;	633
-昌都	chāng;oo;oo;oo;vv;aa;oo;jj;oo; dōu;le;le;ev;gb;jl;qt;ft;ue;	537
+昌都	chāng;oo;oo;oo;vv;aa;oo;jj;oo; dū;le;le;ev;gb;jl;qt;ft;ue;	537
 长丰	cháng;pn;pn;pd;uh;po;pc;ta;pn; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa;	535
 长海	cháng;pn;pn;pd;uh;po;pc;ta;pn; hǎi;dm;dm;dm;kh;ey;kk;it;dm;	548
 昌吉	chāng;oo;oo;oo;vv;aa;oo;jj;oo; jí;tk;uk;ku,uk;go;gr;gd;fk;uk;	547
@@ -341,13 +344,12 @@ sort: by_weight
 郸城	dān;be;be;ed;fb;cl;ht;uj;ee; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	451
 丹东	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad;	613
 丹凤	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; fèng;jy;jy;jy;il;he;or;mc;jy;	545
-丹棱	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; léng;mw;mw;ml,mw;wj;de;eh;sf;lw;	411
+丹棱	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; líng;mw;mw;ml,mw;wj;de;eh;sf;lw;	411
 淡水	dàn;dh;dh;dy;kt;ef;kc;io;dh; shuǐ;ln;ln;ad,uv;oo;ee;ks;ii;vn;	723
 丹徒	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; tú;rz;ir;xz;hq,he;ho;wp;tf;rr;	475
 丹阳	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; yáng;eo;eo;eo;bv;na;to;bj;eo;	599
 丹寨	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; zhài;bm;bm;mb,bm;if;jd;we;pf;gx;	427
 儋州	dān;rk;rk;rv,ry;xc;or;js;wq;rk; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	552
-宕昌	dàng;bu;bu;bu;it;jr;wm;pd;gk; chāng;oo;oo;oo;vv;aa;oo;jj;oo;	417
 砀山	dàng;up;up;uy;tu;mh;me;dn;up; shān;kl;lk;aa;pp;uu;vs;mm;aa;	507
 当涂	dāng;xe;xe;xx;hs;fm;yb;iv;ea; tú;dm;dh;dy;kf;ed;kx;iw;dx;	481
 当雄	dāng;xe;xe;xx;hs;fm;yb;iv;ea; xióng;uv;uf;vh,vs;sa;kg;nu;dc;aa;	437
@@ -438,15 +440,15 @@ sort: by_weight
 东源	dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; yuán;dx;dx;dy;ki;ef;ky;id;dx;	501
 东至	dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; zhì;gt;at;tv,vt;dg;mg;yi;gc;at;	622
 东洲	dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; zhōu;dv;dv,dl;dv;kp;el;ko;iy;dv;	456
-都安	dōu;le;le;ev;gb;jl;qt;ft;ue; ān;bn;bn;bn;iy;jv;wb;pv;gn;	553
-都昌	dōu;le;le;ev;gb;jl;qt;ft;ue; chāng;oo;oo;oo;vv;aa;oo;jj;oo;	469
-都兰	dōu;le;le;ev;gb;jl;qt;ft;ue; lán;bs;bs;bs,qe;fu;tm;ht;uf;es;	467
 斗六	dòu;ud;du;du;hs;yj;jd;uf;du; liù;wb;wb;wb,dd,db;if;yc;al;uy;wb;	544
 斗门	dǒu;ud;du;du;hs;yj;jd;uf;du; mén;dv;dv;dg;oo;ls;am;uy;dv;	566
 斗南	dòu;ud;du;du;hs;yj;jd;uf;du; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu;	499
-都匀	dōu;le;le;ev;gb;jl;qt;ft;ue; yún;bd;bd;gd;uf;pm;nw;qu;pd;	502
+都安	dū;le;le;ev;gb;jl;qt;ft;ue; ān;bn;bn;bn;iy;jv;wb;pv;gn;	553
+都昌	dū;le;le;ev;gb;jl;qt;ft;ue; chāng;oo;oo;oo;vv;aa;oo;jj;oo;	469
 杜集	dù;mt;mt;mt;wg;dg;eg;sf;lt; jí;rm;rm;mv,vm;xw;od;ue;wy;rl;	343
+都兰	dū;le;le;ev;gb;jl;qt;ft;ue; lán;bs;bs;bs,qe;fu;tm;ht;uf;es;	467
 独山	dú;qi;qi;qi;bf;ki;mc;qt;qi; shān;kl;lk;aa;pp;uu;vs;mm;aa;	534
+都匀	dū;le;le;ev;gb;jl;qt;ft;ue; yún;bd;bd;gd;uf;pm;nw;qu;pd;	502
 端州	duān;le;le;le;bb;yb;il;um;le; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	445
 堆龙	duī;tv;tf;tv;ga;gg;gu;fw;ta; lóng;yp;ud;ad;sh;ip;tl;dx;ab;	206
 敦化	dūn;ww;ww;wx;ij;yk;gh;yb;ww; huà;rb;rb;rb;xa;op;jv;wx;rb;	516
@@ -472,8 +474,8 @@ sort: by_weight
 繁昌	fán;px;px;sm;ei;of;ei;tx;mx; chāng;oo;oo;oo;vv;aa;oo;jj;oo;	438
 樊城	fán;md;md;dm;wx;dk;em;sq;ld; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	493
 番路	fān;ct;pt;tb,pt,tm;hw,uw;hw;tq;to;pt; lù;zk;zk;zg;go;rr;ps;kh;zk;	424
+繁峙	fán;px;px;sm;ei;of;ei;tx;mx; shì;uc;ec;us;pk;ui;vk;mf;sc;	438
 范县	fàn;cv;cv;ce,cf;zt;tu;lz;ai;cv; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	534
-繁峙	fán;px;px;sm;ei;of;ei;tx;mx; zhì;uc;ec;us;pk;ui;vk;mf;sc;	438
 防城	fáng;ef;ef;ef;bf;ns;tl;by;ef; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	552
 方城	fāng;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	509
 枋寮	fāng;mf;mf;mf;wf;ds;el;sy;lf; liáo;bx;bx;bl,bx;ii;jf;wy;pd;gx;	475
@@ -496,7 +498,7 @@ sort: by_weight
 丰滨	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; bīn;db;db;db;kf;ec;kh;ip;db;	389
 凤城	fèng;jy;jy;jy;il;he;or;mc;jy; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	546
 丰城	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	518
-丰都	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; dōu;le;le;ev;gb;jl;qt;ft;ue;	509
+丰都	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; dū;le;le;ev;gb;jl;qt;ft;ue;	509
 凤冈	fèng;jy;jy;jy;il;he;or;mc;jy; gāng;kx;kx;ki;oy;bk;mb;mq;ax;	415
 奉化	fèng;if;fl;ff;up;qq;au;dw;aa; huà;rb;rb;rb;xa;op;jv;wx;rb;	565
 凤凰	fèng;jy;jy;jy;il;he;or;mc;jy; huáng;jw;jw;jh;ia;hg;on;mr;jw;	789
@@ -524,6 +526,8 @@ sort: by_weight
 丰原	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; yuán;ix;ix;ix;ri;mf;xy;dr;ix;	565
 丰泽	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; zé;df;dl;df;kp;eq;ku;ic;da;	527
 丰镇	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	505
+佛冈	fó;rf;rf;rf;xp;on;jt;wx;rf; gāng;kx;kx;ki;oy;bk;mb;mq;ax;	444
+佛坪	fó;rf;rf;rf;xp;on;jt;wx;rf; píng;tp;tp;tp;gs;gj;gh;fg;tu;	434
 佛山	fó;rf;rf;rf;xp;on;jt;wx;rf; shān;kl;lk;aa;pp;uu;vs;mm;aa;	763
 福安	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; ān;bn;bn;bn;iy;jv;wb;pv;gn;	562
 阜城	fù;pu;pu;pu,uk,vu;us;hj;tn;wn;pu; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	446
@@ -531,7 +535,6 @@ sort: by_weight
 富川	fù;bt;bt;bf,bt;iw;jw;wq;pg;gt; chuān;pl;pl;pa;up;ll;oc;kt;pa;	478
 福鼎	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; dǐng;po;ov;oa,od;sr;bl,bn;qa;hn;mv;	546
 扶风	fú;ff;ff;ff;je;qo;uh;rf;ff; fēng;jx;jx;ji;iy;hk;ob;mq;jx;	525
-佛冈	fú;rf;rf;rf;xp;on;jt;wx;rf; gāng;kx;kx;ki;oy;bk;mb;mq;ax;	444
 福贡	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; gòng;gb;gr;bg,gb;pm;mo,xo;uo;am;gr;	372
 扶沟	fú;ff;ff;ff;je;qo;uh;rf;ff; gōu;dg;ds;dg;kp;ei;kk;iq;dv;	424
 府谷	fǔ;gc;gc;gf;rw,rk;ii;xk;yw;gc; gǔ;bk;bk;bk,kr;fo;cr;hg;ww;bk;	493
@@ -550,7 +553,6 @@ sort: by_weight
 富宁	fù;bt;bt;bf,bt;iw;jw;wq;pg;gt; níng;bd;bd;bd;ij;jn;wa;ps;gd;	440
 富平	fù;bt;bt;bf,bt;iw;jw;wq;pg;gt; píng;au;au;aa,gb;ds;mj;eh;gu;au;	511
 阜平	fù;pu;pu;pu,uk,vu;us;hj;tn;wn;pu; píng;au;au;aa,gb;ds;mj;eh;gu;au;	469
-佛坪	fú;rf;rf;rf;xp;on;jt;wx;rf; píng;tp;tp;tp;gs;gj;gh;fg;tu;	434
 福清	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; qīng;do;do;dq;kl;eb;kv;ig;do;	611
 福泉	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; quán;bu;bu;bu,ub;so;he;uk;ri;bu;	484
 芙蓉	fú;cf;cf;cf;ze;to;lh;af;cf; róng;cg;ck;cr;zo;tr;lh;ap;ck;	693
@@ -575,7 +577,6 @@ sort: by_weight
 福州	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	793
 抚州	fǔ;fw;fw;fw;jk;qu;ud;rf;fw; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	579
 噶尔	gá;kr;kv;kg;or;rv;df;ka;kg; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex;	588
-伽师	gā;rk;rk;rj;xo;or;jd;wl;rk; shī;lj;lj;ab,aj,db,dj;py;lb;pr;jg;aj;	458
 改则	gǎi;jw;jw;wj,jw;tj;sk;vh;nt;jw; zé;bd;kd;bd,db;mi;bn;op;mj;bd;	377
 盖州	gài;ym;ym;my,ym;fa;tt;ga;ug;em; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	427
 甘德	gān;ca;na,aa;aa,ca;vv;tm;zg;af;aa; dé;rx;ix;xx;hn;hp;wh;tf;rx;	428
@@ -711,6 +712,7 @@ sort: by_weight
 贵州	guì;vb;vr;ba,vb;fm;lo;co;kh;vr; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	811
 果洛	guǒ;tm;ln;ad,tm;vw;wd;qe;js;an; luò;dk;dk;dg;ko;er;ks;it;dk;	494
 国姓	guó;ky;ky;ky;na;wi;ri;l,lg;wy; xìng;nu;nu;nu;ya;vm;bl;vt;nu;	489
+涡阳	guō;dn;dn;dg,dn;ke;eb;kj;ik;dn; yáng;eo;eo;eo;bv;na;to;bj;eo;	458
 哈密	hā;kk;kk;kh;oo;rr;dd;kw;kk; mì;bu;be;ub,bu;ip;ju;wv;pn;gs;	672
 海安	hǎi;dm;dm;dm;kh;ey;kk;it;dm; ān;bn;bn;bn;iy;jv;wb;pv;gn;	529
 海北	hǎi;dm;dm;dm;kh;ey;kk;it;dm; běi;lb;lb;ap,bj;la;lp;av;ux;ab;	573
@@ -808,7 +810,6 @@ sort: by_weight
 衡阳	héng;rd;ii;xd,xi;hs;hn;pw;tq;rd; yáng;eo;eo;eo;bv;na;to;bj;eo;	646
 横州	héng;mb;mb;mh;wy;dc;en;sa;lb; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	363
 红安	hóng;sg;sg;sg;ep;vm;iu;xa;sg; ān;bn;bn;bn;iy;jv;wb;pv;gn;	494
-洪洞	hóng;dg;db;dg;kf;ec;kh;ia;db; dòng;dk;dk;dt;ko;er;kd;im;dk;	517
 红岗	hóng;sg;sg;sg;ep;vm;iu;xa;sg; gǎng;ux;ex;ug;py;uk;vb;mm;sx;	326
 红古	hóng;sg;sg;sg;ep;vm;iu;xa;sg; gǔ;uk;uk;uk;so;jr;cg;dg;uk;	415
 红河	hóng;sg;sg;sg;ep;vm;iu;xa;sg; hé;dk;dk;dk;kj;er;kz;is;dk;	596
@@ -820,6 +821,7 @@ sort: by_weight
 红山	hóng;sg;sg;sg;ep;vm;iu;xa;sg; shān;kl;lk;aa;pp;uu;vs;mm;aa;	586
 洪山	hóng;dg;db;dg;kf;ec;kh;ia;db; shān;kl;lk;aa;pp;uu;vs;mm;aa;	575
 红塔	hóng;sg;sg;sg;ep;vm;iu;xa;sg; tǎ;tk;tk;td,th;go;gr;gd;fa;tk;	518
+洪洞	hóng;dg;db;dg;kf;ec;kh;ia;db; tóng;dk;dk;dt;ko;er;kd;im;dk;	517
 宏伟	hóng;bs;bs;bh,bs;ip;ji;wk;pd;gv; wěi;rw;rw;rw;xp;os;jg;wf;rw;	670
 洪雅	hóng;dg;db;dg;kf;ec;kh;ia;db; yǎ;yv;yf;vy,yv;da;mg;lu;ah;ya;	465
 红原	hóng;sg;sg;sg;ep;vm;iu;xa;sg; yuán;ix;ix;ix;ri;mf;xy;dr;ix;	501
@@ -910,7 +912,6 @@ sort: by_weight
 会昌	huì;ry;rs;ry;ep;oi;jb;wf;rv; chāng;oo;oo;oo;vv;aa;oo;jj;oo;	511
 惠城	huì;ix;ax;xh,hx;dn;jp;nh;gj;ax; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	506
 汇川	huì;dk;dk;dk;kr;es;kn;ia;dk; chuān;pl;pl;pa;up;ll;oc;kt;pa;	495
-珲春	huī;wi;wi;wj;at;mq;ny;gp;wi; chūn;io;fo;of,fo;uv;qa;ao;dw;ao;	526
 惠东	huì;ix;ax;xh,hx;dn;jp;nh;gj;ax; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad;	534
 会东	huì;ry;rs;ry;ep;oi;jb;wf;rv; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad;	396
 惠济	huì;ix;ax;xh,hx;dn;jp;nh;gj;ax; jì;dq;dl;dq;kp;el;kq;iy;dq;	492
@@ -930,6 +931,7 @@ sort: by_weight
 会泽	huì;ry;rs;ry;ep;oi;jb;wf;rv; zé;df;dl;df;kp;eq;ku;ic;da;	472
 惠州	huì;ix;ax;xh,hx;dn;jp;nh;gj;ax; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	701
 徽州	huī;rx;iw;xw;hj;hk;wh;tm;rw; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	620
+珲春	hún;wi;wi;wj;at;mq;ny;gp;wi; chūn;io;fo;of,fo;uv;qa;ao;dw;ao;	526
 浑江	hún;di;di;dj;kt;eq;ky;ip;di; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	366
 浑南	hún;di;di;dj;kt;eq;ky;ip;di; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu;	545
 浑源	hún;di;di;dj;kt;eq;ky;ip;di; yuán;dx;dx;dy;ki;ef;ky;id;dx;	437
@@ -967,7 +969,6 @@ sort: by_weight
 蓟州	jì;cd;cd;cd,cj;zi;tn;lp;aq;cd; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	502
 加查	jiā;lk;lk;lk,kl;uo;kr;sd;lk;lk; chá;md;ma;md;wd;dm;ef;sj;ld;	414
 嘉定	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; dìng;bz;br;bp;ie;jo;wt;pg;gr;	648
-茄萣	jiā;ck;ck;cj;zo;tr;ld;al;ck; dìng;cz;cr;cd;ze;to;lt;ap;cr;	1
 佳冬	jiā;rt;rt;rg;xg;og;jg;wf;rt; dōng;wd;wd;wd;jh;hy;hw;tu;wd;	406
 嘉禾	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; hé;pm;pm,qn;pd,pm;uw;hd;xh;tt;qn;	583
 夹江	jiā;ar;an;fb,ar;dx;kt;hh;gu;an; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	467
@@ -975,6 +976,7 @@ sort: by_weight
 嘉黎	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; lí;hu;hu;hu,ur;uo;he;xk;tq;hu;	344
 嘉陵	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; líng;ew;ew;el,ew;bj;ne;th;bf;ew;	585
 嘉善	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; shàn;yk;yk;yk,ka,kq;fo;tr;gd;ud;ek;	534
+伽师	jiā;rk;rk;rj;xo;or;jd;wl;rk; shī;lj;lj;ab,aj,db,dj;py;lb;pr;jg;aj;	458
 贾汪	jiǎ;xb;xr;bx,xb;pm;mo;vo;sm;xr; wāng;dw;dw;dw;ka;eg;kn;ig;dw;	418
 佳县	jiā;rt;rt;rg;xg;og;jg;wf;rt; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	431
 郏县	jiá;je;je;ej;db;kl;ht;gu;je; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	426
@@ -1137,8 +1139,8 @@ sort: by_weight
 莒县	jǔ;ck;ck;cl;zo;tr;ld;ak;ck; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	483
 巨野	jù;kk;ka;kk,aa;dr;ss;nn;an;ka; yě;ly;ll;ly,yl;vp;wn;di;jf;ly;	476
 鄄城	juàn;xe;xe;et,ey;pb;ml,xl;vt;sf;xe; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	446
+筠连	jūn;vy;vd;vj;nf;hm;rw;tf;vd; lián;zi;zi;zi;tq;yq;yu;lp;zi;	442
 君山	jūn;yk;yk;ky;ro;sr;bd;vt;yk; shān;kl;lk;aa;pp;uu;vs;mm;aa;	527
-浚县	jùn;dw;dw;dj,dw;kj;ee;kh;ic;dw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	433
 卡若	kǎ;ub;ub;bx,ub;ph;yy;yy;hh;ub; ruò;ck;ck;cy;zo;tr;ld;ad;ck;	388
 喀什	kā;kk;kk;kk;oo;rr;ds;kp;kk; shí;ru;ru;ru;xs;oj;jn;wf;ru;	646
 开封	kāi;ac;ac;ac;up;mt;fl;ga;aa; fēng;tc;tc;cg;gk;gi;gk;ff;tc;	705
@@ -1259,7 +1261,7 @@ sort: by_weight
 利州	lì;hd;hd;hd,dh;ui;hn;xp;tj;hd; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	451
 连城	lián;zi;zi;zi;tq;yq;yu;lp;zi; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	608
 莲池	lián;ci;cz;cl;zq;tq;lu;al;ci; chí;dy;dy;dy;kr;ed;ke;ib;dy;	499
-莲都	lián;ci;cz;cl;zq;tq;lu;al;ci; dōu;le;le;ev;gb;jl;qt;ft;ue;	447
+莲都	lián;ci;cz;cl;zq;tq;lu;al;ci; dū;le;le;ev;gb;jl;qt;ft;ue;	447
 莲湖	lián;ci;cz;cl;zq;tq;lu;al;ci; hú;do;do;dh;kl;eb;kv;id;do;	526
 莲花	lián;ci;cz;cl;zq;tq;lu;al;ci; huā;cb;cb;ch;za;tp;lv;aw;cb;	729
 连江	lián;zi;zi;zi;tq;yq;yu;lp;zi; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	608
@@ -1399,10 +1401,10 @@ sort: by_weight
 龙潭	lóng;yp;ud;ad;sh;ip;tl;dx;ab; tán;du;du;dt;ks;ej;kn;is;du;	637
 龙亭	lóng;yp;ud;ad;sh;ip;tl;dx;ab; tíng;wd;wd;wd,db,dd;ij;yn,xn;ga;yp;wd;	448
 龙湾	lóng;yp;ud;ad;sh;ip;tl;dx;ab; wān;dg;dg;dw;kr;en;kb;iy;dg;	659
-龙圩	lóng;yp;ud;ad;sh;ip;tl;dx;ab; wéi;ty;ty;ty;gs;gd;gn;fg;ty;	1
 龙文	lóng;yp;ud;ad;sh;ip;tl;dx;ab; wén;wx;wx;wi,dd;jj;yk;vw;yy;wx;	539
 陇西	lǒng;el;el;el;bh;np;tt;bd;eb; xī;ak,wk;aa;aa;pp;mw;vx;sg;aa;	556
 陇县	lǒng;el;el;el;bh;np;tt;bd;eb; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	457
+龙圩	lóng;yp;ud;ad;sh;ip;tl;dx;ab; xū;ty;ty;ty;gs;gd;gn;fg;ty;	1
 龙岩	lóng;yp;ud;ad;sh;ip;tl;dx;ab; yán;uu;eu;uu;pt;ur;vm;md;sk;	613
 隆阳	lóng;eu;eu;eu;ba;nm;tl;bt;eu; yáng;eo;eo;eo;bv;na;to;bj;eo;	408
 隆尧	lóng;eu;eu;eu;ba;nm;tl;bt;eu; yáo;yw;aw;gw,wg;ak;ju;pp;at;ge;	419
@@ -1459,6 +1461,7 @@ sort: by_weight
 滦南	luán;dm;dm;dl;kw;ed;ke;iy;dl; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu;	383
 滦平	luán;dm;dm;dl;kw;ed;ke;iy;dl; píng;au;au;aa,gb;ds;mj;eh;gu;au;	509
 滦州	luán;dm;dm;dl;kw;ed;ke;iy;dl; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	431
+略阳	lue;tk;tk;tg;wo;wr;qs;lt;tk; yáng;eo;eo;eo;bv;na;to;bj;eo;	447
 仑背	lún;rb;rb;rb;ea,xa;op,xp;jl;wx;rb; bèi;bo;lo;ob;ll;lb;av;ux;bo;	423
 轮台	lún;il;ib;il;ta;kp;yj;lw;ib; tái;sk;sk;sk;po;ir;kd;ck;vk;	458
 萝北	luó;cx;cx;cl;zf;tn,xn;ll;al;cx; běi;lb;lb;ap,bj;la;lp;av;ux;ab;	377
@@ -1486,7 +1489,6 @@ sort: by_weight
 绿岛	lǜ;su;su;sl;eo;ve;ik;xv;su; dǎo;nu;pe;nu,un;up;pu;xv;qy;ps;	547
 吕梁	lǚ;kk;kk;kk;oo;rr;dd;kk;kk; liáng;dm;dm;mb;kw;ed;ke;iv;dl;	602
 绿园	lǜ;su;su;sl;eo;ve;ik;xv;su; yuán;ky;ke;ky;nk;wu;rp;lf;we;	511
-略阳	lüè;tk;tk;tg;wo;wr;qs;lt;tk; yáng;eo;eo;eo;bv;na;to;bj;eo;	447
 马边	mǎ;va;va;aa,vh;zz;nm;nm;cn;va; biān;zl;zl;zl;uq;ys;su;lp;zl;	403
 麻城	má;gm;gm;gl;dd;id,ic;zm;ys;gl; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	530
 马村	mǎ;va;va;aa,vh;zz;nm;nm;cn;va; cūn;mc;mc;mc;wk;di;ek;sf;lc;	512
@@ -1554,13 +1556,13 @@ sort: by_weight
 绵竹	mián;sj;sj;sb,sj;ey;vb;ir;xr;sj; zhú;gg;pl,gg;gg;nn;hh;ru;tt;pd;	494
 苗栗	miáo;ct;ct;ct;zw;tw;lq;al;ct; lì;xm;xm;xm;pw;md;ve;ss;xl;	624
 民丰	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa;	442
+闵行	mǐn;mw;mw;mw;oj;lk;av;uy;mx; háng;rd;ii;xd,xi;hs;hn;px;tf;rd;	625
 民和	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; hé;hk;hk;hk;uo;hr;xd;t,tk;hk;	557
 闽侯	mǐn;mi;mi;im,mi;of;li;ac;uj;mi; hòu;ru;ru;ru;xx;ok;jo;wn;rd;	574
 民勤	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; qín;cl;nl;lj;vu;ts;ls;ak;cl;	433
 闽清	mǐn;mi;mi;im,mi;of;li;ac;uj;mi; qīng;do;do;dq;kl;eb;kv;ig;do;	524
 民权	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; quán;my;my;my;wl;de;er;sc;ly;	635
 岷县	mín;um;em;um;pr;up;vd;mn;sm; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	473
-闵行	mǐn;mw;mw;mw;oj;lk;av;uy;mx; xíng;rd;ii;xd,xi;hs;hn;px;tf;rd;	625
 民雄	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; xióng;uv;uf;vh,vs;sa;kg;nu;dc;aa;	474
 民乐	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; yuè;px;pd;pd,px;ui;hd;by;qi;pd;	589
 明光	míng;oo;oo;oo;vl;ab;ov;je;oo; guāng;xe;xw;ea,xw;hk;fu;mg;iq;ee;	526
@@ -1578,8 +1580,8 @@ sort: by_weight
 牡丹	mǔ;nt;nt;nt;bg;hg;qg;tr;nt; dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa;	725
 木兰	mù;ur;un,an;ad;ww;dd;em;ss;un; lán;bs;bs;bs,qe;fu;tm;ht;uf;es;	649
 木垒	mù;ur;un,an;ad;ww;dd;em;ss;un; lěi;st;st;st,tl;pg;ig;kg;cc;vt;	423
-穆棱	mù;hp;hp;hp;uu;hh;xe;tr;hp; léng;mw;mw;ml,mw;wj;de;eh;sf;lw;	406
 木里	mù;ur;un,an;ad;ww;dd;em;ss;un; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa;	464
+穆棱	mù;hp;hp;hp;uu;hh;xe;tr;hp; líng;mw;mw;ml,mw;wj;de;eh;sf;lw;	406
 牟平	mù;sn;sn;sn;pb;iq;kq;cr;vn; píng;au;au;aa,gb;ds;mj;eh;gu;au;	472
 牧野	mù;nw;nw;nw;bj;hk;qh;tr;nw; yě;ly;ll;ly,yl;vp;wn;di;jf;ly;	537
 那坡	nà;ve;ve;el;rb;sl;at;vf;ve; pō;tp;ty;tp;gl;ge;gr;fh;ty;	384
@@ -1643,11 +1645,11 @@ sort: by_weight
 楠梓	nán;mg;mg;mn;ws;dj;eg;sf;lu; zǐ;mx;mu;mx;ws;dj,xj;en;su;lu;	503
 囊谦	náng;gy;ay;ay;dh;jv;nt;gk;ah; qiān;yj;yn;yj;cf;ic;sc;yu;yj;	417
 讷河	nè;yn;yn;yn;ce;ib;sj;ym;yn; hé;dk;dk;dk;kj;er;kz;is;dk;	551
+内埔	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; bù;tf;tf;tf;gh;gb;gn;fg;tf;	471
 内湖	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; hú;do;do;dh;kl;eb;kv;id;do;	551
 内黄	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; huáng;cb;cb;ad,cb;zy;tc;nh;am;cb;	451
 内江	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	582
 内门	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; mén;dv;dv;dg;oo;ls;am;uy;dv;	465
-内埔	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; pǔ;tf;tf;tf;gh;gb;gn;fg;tf;	471
 内丘	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; qiū;ja;pa;pa,ja;ud;om;tf;rg;pa;	410
 内乡	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	499
 嫩江	nèn;nw;nw;ni,nw;yj;vk;bh;vg;nw; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	497
@@ -1659,7 +1661,7 @@ sort: by_weight
 宁波	níng;bd;bd;bd;ij;jn;wa;ps;gd; bō;dp;dy;dp;kl;ee;kr;ih;dy;	793
 宁城	níng;bd;bd;bd;ij;jn;wa;ps;gd; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	477
 宁德	níng;bd;bd;bd;ij;jn;wa;ps;gd; dé;rx;ix;xx;hn;hp;wh;tf;rx;	615
-宁都	níng;bd;bd;bd;ij;jn;wa;ps;gd; dōu;le;le;ev;gb;jl;qt;ft;ue;	499
+宁都	níng;bd;bd;bd;ij;jn;wa;ps;gd; dū;le;le;ev;gb;jl;qt;ft;ue;	499
 宁洱	níng;bd;bd;bd;ij;jn;wa;ps;gd; ěr;de;de;de;ku;ej;kq;ib;de;	366
 宁国	níng;bd;bd;bd;ij;jn;wa;ps;gd; guó;ky;ky;ky;na;wi;ri;l,lg;wy;	545
 宁海	níng;bd;bd;bd;ij;jn;wa;ps;gd; hǎi;dm;dm;dm;kh;ey;kk;it;dm;	597
@@ -1703,11 +1705,12 @@ sort: by_weight
 彭阳	péng;tp;up;pd,up;gu;gh;he;fk;up; yáng;eo;eo;eo;bv;na;to;bj;eo;	409
 彭泽	péng;tp;up;pd,up;gu;gh;he;fk;up; zé;df;dl;df;kp;eq;ku;ic;da;	476
 彭州	péng;tp;up;pd,up;gu;gh;he;fk;up; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	534
-郫都	pí;pe;pe;eb;sb;hl;ut;rt;be; dōu;le;le;ev;gb;jl;qt;ft;ue;	1
+郫都	pí;pe;pe;eb;sb;hl;ut;rt;be; dū;le;le;ev;gb;jl;qt;ft;ue;	1
 皮山	pí;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; shān;kl;lk;aa;pp;uu;vs;mm;aa;	409
 埤头	pí;tu;tu;tb;gs;gj;gn;fr;tu; tóu;dd;dd;dd;hx;yk,xk;wm;ud;dd;	457
 邳州	pī;be;pe,be;ep;db;ml;ct;gi;be; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	512
 偏关	piān;rc;rc;rb;xj;ob;ji;wy;rc; guān;bt;bt;bt,qd;fx;tk;hm;ud;et;	378
+朴子	piáo;mb;mb;mb;wh;dy;ey;sh;lb; zǐ;la;va;aa,vh;aa;nd;hi;bb;va;	509
 平安	píng;au;au;aa,gb;ds;mj;eh;gu;au; ān;bn;bn;bn;iy;jv;wb;pv;gn;	820
 平坝	píng;au;au;aa,gb;ds;mj;eh;gu;au; bà;tb;tr;tb;gm;go;go;fm;tr;	449
 屏边	píng;uk;uk;ub;qp;st;cl;nu;uk; biān;zl;zl;zl;uq;ys;su;lp;zl;	391
@@ -1767,15 +1770,11 @@ sort: by_weight
 蒲江	pú;cf;cf;cp;zh;tb;ln;ai;cf; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	486
 浦口	pǔ;df;df;df;kh;eb;kn;ig;df; kǒu;la;la;aa;oo;rr;dk;kk;aa;	568
 普兰	pǔ;bo;bo;ob,bo;fv;ta;ho;uo;eo; lán;bs;bs;bs,qe;fu;tm;ht;uf;es;	614
-埔里	pǔ;tf;tf;tf;gh;gb;gn;fg;tf; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa;	543
 普宁	pǔ;bo;bo;ob,bo;fv;ta;ho;uo;eo; níng;bd;bd;bd;ij;jn;wa;ps;gd;	566
 莆田	pú;cf;cf;cf;zh;tb;ln;ag;cf; tián;ku;ku;aa;ww;ww;qt;ll;wu;	688
 普陀	pǔ;bo;bo;ob,bo;fv;ta;ho;uo;eo; tuó;eb;eb;et;ba;np;tv;bp;eb;	646
 蒲县	pú;cf;cf;cp;zh;tb;ln;ai;cf; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	384
-埔心	pǔ;tf;tf;tf;gh;gb;gn;fg;tf; xīn;dd;dd;dd;nn;pp;hx;ny;dd;	462
-埔盐	pǔ;tf;tf;tf;gh;gb;gn;fg;tf; yán;tm;tm;mb;ga;gt;ga;fh;tm;	412
 濮阳	pú;df;dn;df,dp;ke;eo;ki;iw;dn; yáng;eo;eo;eo;bv;na;to;bj;eo;	614
-朴子	pǔ;mb;mb;mb;wh;dy;ey;sh;lb; zǐ;la;va;aa,vh;aa;nd;hi;bb;va;	509
 淇滨	qí;db;db;dq;kf;ec;kh;ia;db; bīn;db;db;db;kf;ec;kh;ip;db;	370
 蕲春	qí;cj;cj;cj;zp;tl;lt;au;cj; chūn;io;fo;of,fo;uv;qa;ao;dw;ao;	477
 启东	qǐ;hk;hk;hk,kh;qo;hr,ir,xr;md;yn;hk; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad;	518
@@ -1821,13 +1820,15 @@ sort: by_weight
 硚口	qiáo;ul;ul;uq;tp;ml;mp;dt;uq; kǒu;la;la;aa;oo;rr;dk;kk;aa;	483
 桥头	qiáo;ml;ml;mq;wp;dl;ep;st;lq; tóu;dd;dd;dd;hx;yk,xk;wm;ud;dd;	644
 桥西	qiáo;ml;ml;mq;wp;dl;ep;st;lq; xī;ak,wk;aa;aa;pp;mw;vx;sg;aa;	563
+茄萣	qié;ck;ck;cj;zo;tr;ld;al;ck; dìng;cz;cr;cd;ze;to;lt;ap;cr;	1
 且末	qiě;oa;la;aa;pd,pu;bm;fq;eg;aa; mò;am;an;ad,am;ee;dj;fe;gs;an;	425
 秦安	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; ān;bn;bn;bn;iy;jv;wb;pv;gn;	455
 钦北	qīn;jq;jr;jq;de;oo;ze;qq;jr; běi;lb;lb;ap,bj;la;lp;av;ux;ab;	359
-秦都	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; dōu;le;le;ev;gb;jl;qt;ft;ue;	407
+秦都	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; dū;le;le;ev;gb;jl;qt;ft;ue;	407
 秦淮	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; huái;dv;df;dv;ka;eg,xg;ku;iw;da;	616
 钦南	qīn;jq;jr;jq;de;oo;ze;qq;jr; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu;	306
 沁水	qìn;dx;dx;dx;kn;ep;kh;in;dx; shuǐ;ln;ln;ad,uv;oo;ee;ks;ii;vn;	458
+覃塘	qín;xu;xu;xz;ps;mj;vn;sj;xu; táng;tk;tk;tt;go;gr;gd;fy;tk;	323
 沁县	qìn;dx;dx;dx;kn;ep;kh;in;dx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	429
 沁阳	qìn;dx;dx;dx;kn;ep;kh;in;dx; yáng;eo;eo;eo;bv;na;to;bj;eo;	482
 沁源	qìn;dx;dx;dx;kn;ep;kh;in;dx; yuán;dx;dx;dy;ki;ef;ky;id;dx;	460
@@ -1869,7 +1870,6 @@ sort: by_weight
 琼海	qióng;wx;wx;wj;ai;mf;ny;gy;wx; hǎi;dm;dm;dm;kh;ey;kk;it;dm;	552
 琼结	qióng;wx;wx;wj;ai;mf;ny;gy;wx; jié;sk;sk;sj;eo;vr;id;xf;sk;	285
 邛崃	qióng;ge;ge;eg;pb;ml;ut;ab;ge; lái;ul;el;ul;pl,pf;ut;vh;mg;sl;	531
-芎林	qiōng;cg;cg;cg;zr;tn,xn;lb;ax;cg; lín;mm;mm;mm;ww;dd;ee;ss;ll;	1
 琼山	qióng;wx;wx;wj;ai;mf;ny;gy;wx; shān;kl;lk;aa;pp;uu;vs;mm;aa;	502
 琼中	qióng;wx;wx;wj;ai;mf;ny;gy;wx; zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa;	474
 丘北	qiū;ja;pa;pa,ja;ud;om;tf;rg;pa; běi;lb;lb;ap,bj;la;lp;av;ux;ab;	412
@@ -1990,7 +1990,7 @@ sort: by_weight
 商城	shāng;wk;wk;wk,lk,dk;io;yr;id;um;wk; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	769
 上城	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	533
 上党	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; dǎng;xx;xe;xx,dx,ek;hk;fu;sp;ip;ee;	527
-商都	shāng;wk;wk;wk,lk,dk;io;yr;id;um;wk; dōu;le;le;ev;gb;jl;qt;ft;ue;	546
+商都	shāng;wk;wk;wk,lk,dk;io;yr;id;um;wk; dū;le;le;ev;gb;jl;qt;ft;ue;	546
 上高	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; gāo;wk;wk;wk;io;yr;gg;ym;wk;	658
 上海	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; hǎi;dm;dm;dm;kh;ey;kk;it;dm;	975
 上杭	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; háng;mj;mj;mk;wi;dn;eo;sy;lj;	505
@@ -2011,6 +2011,7 @@ sort: by_weight
 商州	shāng;wk;wk;wk,lk,dk;io;yr;id;um;wk; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	476
 邵东	shào;de;de;ev;ib;sl,xl;pt;vk;de; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad;	478
 韶关	sháo;lk;lk;yv;co;yr;xd;uj;lk; guān;bt;bt;bt,qd;fx;tk;hm;ud;et;	615
+召陵	shào;dk;dk;dk,kd;io;sr;pd;vk;dk; líng;ew;ew;el,ew;bj;ne;th;bf;ew;	384
 韶山	sháo;lk;lk;yv;co;yr;xd;uj;lk; shān;kl;lk;aa;pp;uu;vs;mm;aa;	573
 邵武	shào;de;de;ev;ib;sl,xl;pt;vk;de; wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg;	496
 绍兴	shào;sk;sk;sv;eo;vr;id;xv;sk; xīng;xb;xb;ba,db;hf;fc;kh;iw;eb;	707
@@ -2022,7 +2023,6 @@ sort: by_weight
 涉县	shè;du;dp;db;ku;eh;ks;ih;db; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	482
 射阳	shè;uc;uc;cu,uc;uk;hi;zk;tm;uc; yáng;eo;eo;eo;bv;na;to;bj;eo;	468
 神池	shén;pu;pu;uu;hp;il;fg;py;pu; chí;dy;dy;dy;kr;ed;ke;ib;dy;	427
-什邡	shén;ru;ru;ru;xs;oj;jn;wf;ru; fāng;fe;fe;ef;fb;yl;lt;yb;fe;	481
 神冈	shén;pu;pu;uu;hp;il;fg;py;pu; gāng;kx;kx;ki;oy;bk;mb;mq;ax;	481
 伸港	shēn;ru;ru;ru;xp;ol;jg;wj;ru; gǎng;ds;ds;dx;kt;eu;kv;ia;dv;	370
 沈河	shěn;de;dv;dg,dy;kk;eu;kp;ip;dv; hé;dk;dk;dk;kj;er;kz;is;dk;	551
@@ -2042,6 +2042,7 @@ sort: by_weight
 石城	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	564
 施甸	shī;fy;fy;fy;fr;yd;le;yt;fy; diān;bt;bt;gt,tg;uw;pw;nq;ql;pt;	391
 石碇	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; dìng;uz;ur;ud;te;mo;mt;dp;ur;	448
+什邡	shí;ru;ru;ru;xs;oj;jn;wf;ru; fāng;fe;fe;ef;fb;yl;lt;yb;fe;	481
 石峰	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; fēng;uf;ef;uf;pa;uj;va;mt;sf;	485
 石冈	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; gāng;kx;kx;ki;oy;bk;mb;mq;ax;	455
 石鼓	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; gǔ;tv;uy;vd,uv;gl;ge;hc;fk;uy;	540
@@ -2058,7 +2059,7 @@ sort: by_weight
 石阡	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; qiān;eq;eq;eq;bs;nj;tl;bt;eq;	457
 石渠	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; qú;dm;dm;mj;kw;ed;ke;ia;dl;	461
 石泉	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; quán;bu;bu;bu,ub;so;he;uk;ri;bu;	505
-石狮	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; shī;qj;qj;qu;by;kb;mr;qt;qj;	597
+石狮	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; shí;qj;qj;qu;by;kb;mr;qt;qj;	597
 石首	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; shǒu;bz;bz;qz;fs;tu;ho;ut;em;	504
 石台	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; tái;sk;sk;sk;po;ir;kd;ck;vk;	482
 狮潭	shī;qj;qj;qu;by;kb;mr;qt;qj; tán;du;du;dt;ks;ej;kn;is;du;	397
@@ -2149,7 +2150,7 @@ sort: by_weight
 绥德	suí;sn;sn;st;ey;vv;ib;xe;sn; dé;rx;ix;xx;hn;hp;wh;tf;rx;	484
 绥化	suí;sn;sn;st;ey;vv;ib;xe;sn; huà;rb;rb;rb;xa;op;jv;wx;rb;	510
 绥江	suí;sn;sn;st;ey;vv;ib;xe;sn; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	366
-绥棱	suí;sn;sn;st;ey;vv;ib;xe;sn; léng;mw;mw;ml,mw;wj;de;eh;sf;lw;	359
+绥棱	suí;sn;sn;st;ey;vv;ib;xe;sn; líng;mw;mw;ml,mw;wj;de;eh;sf;lw;	359
 遂宁	suì;zu;zu;zu;fq;yo;hu;ue;zd; níng;bd;bd;bd;ij;jn;wa;ps;gd;	579
 睢宁	suī;ov;of;ov;sa;bg,xg;qu;hw;ma; níng;bd;bd;bd;ij;jn;wa;ps;gd;	484
 绥宁	suí;sn;sn;st;ey;vv;ib;xe;sn; níng;bd;bd;bd;ij;jn;wa;ps;gd;	413
@@ -2196,8 +2197,8 @@ sort: by_weight
 台中	tái;sk;sk;sk;po;ir;kd;ck;vk; zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa;	752
 台州	tāi;sk;sk;sk;po;ir;kd;ck;vk; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	658
 泰州	tài;iu;fu;fu,uf;uo;qe;ak;dw;au; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	629
+宕昌	tan;bu;bu;bu;it;jr;wm;pd;gk; chāng;oo;oo;oo;vv;aa;oo;jj;oo;	417
 郯城	tán;he;he;ey;tb;fl;ct;oo;he; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	491
-覃塘	tán;xu;xu;xz;ps;mj;vn;sj;xu; táng;tk;tk;tt;go;gr;gd;fy;tk;	323
 潭子	tán;du;du;dt;ks;ej;kn;is;du; zǐ;la;va;aa,vh;aa;nd;hi;bb;va;	469
 唐河	táng;gk;gk;gk;ro;ir;xd;yv;gk; hé;dk;dk;dk;kj;er;kz;is;dk;	508
 唐山	táng;gk;gk;gk;ro;ir;xd;yv;gk; shān;kl;lk;aa;pp;uu;vs;mm;aa;	718
@@ -2293,7 +2294,7 @@ sort: by_weight
 屯留	tún;av;av;ag;dr;pu;fs;gb;av; liú;pt;pt;td,tl,lt;uw;hw;bq;qy;pt;	532
 屯溪	tún;av;av;ag;dr;pu;fs;gb;av; xī;dd;dd;dx;kx;ek;km;ie;dd;	518
 托里	tuō;fq;fq;fq,ft;ja;qp;ur;rt;fq; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa;	626
-外埔	wài;xb;xb;xb;fh;ny;ly;qh;xb; pǔ;tf;tf;tf;gh;gb;gn;fg;tf;	435
+外埔	wài;xb;xb;xb;fh;ny;ly;qh;xb; bù;tf;tf;tf;gh;gb;gn;fg;tf;	435
 万安	wàn;av;ap;ag,ap;du;ms;fp;dn;ap; ān;bn;bn;bn;iy;jv;wb;pv;gn;	552
 宛城	wǎn;bv;bv;be,by;it;ju;wz;pq;gv; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	488
 万丹	wàn;av;ap;ag,ap;du;ms;fp;dn;ap; dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa;	467
@@ -2313,7 +2314,7 @@ sort: by_weight
 望安	wàng;ww;ww;wo;ia;yg;fn;yn;ww; ān;bn;bn;bn;iy;jv;wb;pv;gn;	375
 旺苍	wàng;ow;ow;ow;va;ag;on;jg;ow; cāng;cv;cv;cc;zt;tu;lz;aw;cv;	431
 望城	wàng;ww;ww;wo;ia;yg;fn;yn;ww; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	503
-望都	wàng;ww;ww;wo;ia;yg;fn;yn;ww; dōu;le;le;ev;gb;jl;qt;ft;ue;	1
+望都	wàng;ww;ww;wo;ia;yg;fn;yn;ww; dū;le;le;ev;gb;jl;qt;ft;ue;	1
 望花	wàng;ww;ww;wo;ia;yg;fn;yn;ww; huā;cb;cb;ch;za;tp;lv;aw;cb;	411
 望江	wàng;ww;ww;wo;ia;yg;fn;yn;ww; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	559
 望奎	wàng;ww;ww;wo;ia;yg;fn;yn;ww; kuí;dt;dt;dg;xg;kg;mg;df;dt;	421
@@ -2326,7 +2327,7 @@ sort: by_weight
 渭城	wèi;do;do;dw;kl;eb;kv;il;do; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	443
 潍城	wéi;dv;df;dw;ka;eg;ku;ix;dw; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	364
 卫东	wèi;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad;	576
-魏都	wèi;hg;hg;gw;us;hi;xa;tv;hv; dōu;le;le;ev;gb;jl;qt;ft;ue;	406
+魏都	wèi;hg;hg;gw;us;hi;xa;tv;hv; dū;le;le;ev;gb;jl;qt;ft;ue;	406
 潍坊	wéi;dv;df;dw;ka;eg;ku;ix;dw; fāng;tf;tf;tf;gf;gs;gl;fy;tf;	668
 威海	wēi;wn;xn,ad,wn;gn,ng,wn;rh;iv;nb;dg;ng; hǎi;dm;dm;dm;kh;ey;kk;it;dm;	674
 卫辉	wèi;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; huī;gi;xi;gj;ht;fq;my;iq;ei;	473
@@ -2363,7 +2364,6 @@ sort: by_weight
 瓮安	wèng;gw;bw;wg;fh;cn;hr;wc;bw; ān;bn;bn;bn;iy;jv;wb;pv;gn;	430
 翁源	wēng;gx;bx;yg;fd;cm;hz;wc;bx; yuán;dx;dx;dy;ki;ef;ky;id;dx;	467
 卧龙	wò;ib;ib;bi,ib;dh;sy;qy;ah;kb; lóng;yp;ud;ad;sh;ip;tl;dx;ab;	611
-涡阳	wō;dn;dn;dg,dn;ke;eb;kj;ik;dn; yáng;eo;eo;eo;bv;na;to;bj;eo;	458
 武安	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; ān;bn;bn;bn;iy;jv;wb;pv;gn;	550
 吴堡	wú;kt;kt;kt;ox;rk;dm;kg;kt; bǔ;rt;rt;tb;xg;og;jg;wk;rt;	411
 武昌	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; chāng;oo;oo;oo;vv;aa;oo;jj;oo;	697
@@ -2378,7 +2378,7 @@ sort: by_weight
 乌当	wū;pa;pa;pa;ud;pm;xu;qn;pa; dāng;xe;xe;xx;hs;fm;yb;iv;ea;	459
 无棣	wú;ay;ay;ag,ay,ee;uk;mu;du;fq;av; dì;ml;mn;ml;wo;de;ek;sv;ll;	416
 武定	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; dìng;bz;br;bp;ie;jo;wt;pg;gr;	534
-武都	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; dōu;le;le;ev;gb;jl;qt;ft;ue;	509
+武都	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; dū;le;le;ev;gb;jl;qt;ft;ue;	509
 五峰	wǔ;aw;aa;aa;gg;mm;wu;gg;aa; fēng;uf;ef;uf;pa;uj;va;mt;sf;	524
 雾峰	wù;yl;yl;yw;yu;ms;ts;ft;yl; fēng;uf;ef;uf;pa;uj;va;mt;sf;	508
 武冈	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; gāng;kx;kx;ki;oy;bk;mb;mq;ax;	468
@@ -2413,8 +2413,8 @@ sort: by_weight
 乌日	wū;pa;pa;pa;ud;pm;xu;qn;pa; rì;ka;ka;aa,or,ri;vv;aa;or;jj;wa;	509
 巫山	wū;gr;gr;gc,gr;pe;mo;uj;aw;aa; shān;kl;lk;aa;pp;uu;vs;mm;aa;	623
 武山	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; shān;kl;lk;aa;pp;uu;vs;mm;aa;	486
-乌什	wū;pa;pa;pa;ud;pm;xu;qn;pa; shén;ru;ru;ru;xs;oj;jn;wf;ru;	498
 武胜	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; shèng;ou;ou;ou;la;bm;vl;et;ou;	501
+乌什	wū;pa;pa;pa;ud;pm;xu;qn;pa; shí;ru;ru;ru;xs;oj;jn;wf;ru;	498
 乌苏	wū;pa;pa;pa;ud;pm;xu;qn;pa; sū;cb;cb;cb;zf;tc;lh;al;cb;	571
 五台	wǔ;aw;aa;aa;gg;mm;wu;gg;aa; tái;sk;sk;sk;po;ir;kd;ck;vk;	625
 雾台	wù;yl;yl;yw;yu;ms;ts;ft;yl; tái;sk;sk;sk;po;ir;kd;ck;vk;	390
@@ -2509,7 +2509,7 @@ sort: by_weight
 芗城	xiāng;cx;cx;cx;zu;th;li;ax;cx; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	453
 乡城	xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	443
 湘东	xiāng;do;do;dx;ks;eu;kq;is;dm; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad;	470
-襄都	xiāng;yf;wy;wy,ya;ih;yv;tf;yk;wh; dōu;le;le;ev;gb;jl;qt;ft;ue;	1
+襄都	xiāng;yf;wy;wy,ya;ih;yv;tf;yk;wh; dū;le;le;ev;gb;jl;qt;ft;ue;	1
 香坊	xiāng;ho;ho;ho;uv;ha;xo;tj;ho; fāng;tf;tf;tf;gf;gs;gl;fy;tf;	521
 襄汾	xiāng;yf;wy;wy,ya;ih;yv;tf;yk;wh; fén;df;dd;df;ki;eh;kp;iw;dd;	449
 祥符	xiáng;py;py;uy;hp;iq;fg;py;py; fú;vc;vc;vf;nw,nk;hi;rk;tw;vc;	504
@@ -2545,13 +2545,14 @@ sort: by_weight
 新安	xīn;lj;lj;jq;bp;yl;it;us;lj; ān;bn;bn;bn;iy;jv;wb;pv;gn;	636
 新北	xīn;lj;lj;jq;bp;yl;it;us;lj; běi;lb;lb;ap,bj;la;lp;av;ux;ab;	691
 新宾	xīn;lj;lj;jq;bp;yl;it;us;lj; bīn;bb;bb;bb;if;jc;wh;pr;gb;	426
+新埔	xīn;lj;lj;jq;bp;yl;it;us;lj; bù;tf;tf;tf;gh;gb;gn;fg;tf;	486
 新蔡	xīn;lj;lj;jq;bp;yl;it;us;lj; cài;cu;cx;cj;zi;tf;lf;aw;cx;	455
 新昌	xīn;lj;lj;jq;bp;yl;it;us;lj; chāng;oo;oo;oo;vv;aa;oo;jj;oo;	543
 新城	xīn;lj;lj;jq;bp;yl;it;us;lj; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	767
 忻城	xīn;xj;xj;xj;np;pl;ht;nr;xj; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	392
 新店	xīn;lj;lj;jq;bp;yl;it;us;lj; diàn;gv;gk;gv;ro;ir;xd;yh;gk;	698
-新都	xīn;lj;lj;jq;bp;yl;it;us;lj; dōu;le;le;ev;gb;jl;qt;ft;ue;	627
-信都	xìn;rk;rk;ry;xc;or;js;wy;rk; dōu;le;le;ev;gb;jl;qt;ft;ue;	456
+新都	xīn;lj;lj;jq;bp;yl;it;us;lj; dū;le;le;ev;gb;jl;qt;ft;ue;	627
+信都	xìn;rk;rk;ry;xc;or;js;wy;rk; dū;le;le;ev;gb;jl;qt;ft;ue;	456
 新丰	xīn;lj;lj;jq;bp;yl;it;us;lj; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa;	563
 信丰	xìn;rk;rk;ry;xc;or;js;wy;rk; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa;	449
 忻府	xīn;xj;xj;xj;np;pl;ht;nr;xj; fǔ;gc;gc;gf;rw,rk;ii;xk;yw;gc;	370
@@ -2577,7 +2578,6 @@ sort: by_weight
 新宁	xīn;lj;lj;jq;bp;yl;it;us;lj; níng;bd;bd;bd;ij;jn;wa;ps;gd;	506
 新埤	xīn;lj;lj;jq;bp;yl;it;us;lj; pí;tu;tu;tb;gs;gj;gn;fr;tu;	1
 新平	xīn;lj;lj;jq;bp;yl;it;us;lj; píng;au;au;aa,gb;ds;mj;eh;gu;au;	594
-新埔	xīn;lj;lj;jq;bp;yl;it;us;lj; pǔ;tf;tf;tf;gh;gb;gn;fg;tf;	486
 新邱	xīn;lj;lj;jq;bp;yl;it;us;lj; qiū;qe;qe;eq;ub;ol;tt;rg;qe;	1
 新荣	xīn;lj;lj;jq;bp;yl;it;us;lj; róng;cm;cm;cm,mb;zw;td,xd;le;ap;cl;	506
 新邵	xīn;lj;lj;jq;bp;yl;it;us;lj; shào;de;de;ev;ib;sl,xl;pt;vk;de;	415
@@ -2625,6 +2625,7 @@ sort: by_weight
 荥阳	xíng;cu;cu;cu,ub;zo;te;lk;ap;cu; yáng;eo;eo;eo;bv;na;to;bj;eo;	571
 兴业	xīng;xb;xb;ba,db;hf;fc;kh;iw;eb; yè;la;la;aa;pd;tc,xc;cy;og;aa;	701
 兴义	xīng;xb;xb;ba,db;hf;fc;kh;iw;eb; yì;dx;dx;di,id;hy,yh;ik,xk;ib;yq;dx;	531
+芎林	xiōng;cg;cg;cg;zr;tn,xn;lb;ax;cg; lín;mm;mm;mm;ww;dd;ee;ss;ll;	1
 雄县	xióng;uv;uf;vh,vs;sa;kg;nu;dc;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	555
 秀峰	xiù;hn;hn;hn;uu;hs;xv;te;hn; fēng;uf;ef;uf;pa;uj;va;mt;sf;	518
 秀林	xiù;hn;hn;hn;uu;hs;xv;te;hn; lín;mm;mm;mm;ww;dd;ee;ss;ll;	463
@@ -2660,6 +2661,7 @@ sort: by_weight
 循化	xún;ro;io;xd;hs;hu;wq;tr;rm; huà;rb;rb;rb;xa;op;jv;wx;rb;	443
 逊克	xùn;zx;zx;zs;aq;yf,xf;hu;bi;zx; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue;	354
 寻乌	xún;ec;ec;cx,xc;sk;si;bk;vf;vc; wū;pa;pa;pa;ud;pm;xu;qn;pa;	442
+浚县	xùn;dw;dw;dj,dw;kj;ee;kh;ic;dw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	433
 浔阳	xún;dc;dc;dx,p;dx;kk;ei,xi;kk;iv;dc; yáng;eo;eo;eo;bv;na;to;bj;eo;	474
 旬阳	xún;bo;bo;go,og;uv;pa;no;qj;po; yáng;eo;eo;eo;bv;na;to;bj;eo;	447
 旬邑	xún;bo;bo;go,og;uv;pa;no;qj;po; yì;kb;kb;kb;ot;ru,xu;dm;kc;kb;	416
@@ -2670,6 +2672,7 @@ sort: by_weight
 延安	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; ān;bn;bn;bn;iy;jv;wb;pv;gn;	702
 延边	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; biān;zl;zl;zl;uq;ys;su;lp;zl;	637
 盐边	yán;tm;tm;mb;ga;gt;ga;fh;tm; biān;zl;zl;zl;uq;ys;su;lp;zl;	422
+盐埔	yán;tm;tm;mb;ga;gt;ga;fh;tm; bù;tf;tf;tf;gh;gb;gn;fg;tf;	390
 延长	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; cháng;pn;pn;pd;uh;po;pc;ta;pn;	792
 燕巢	yàn;ch;nh,ah;ch,hb;vn;tf;lc;au;ce; cháo;vg;vg;ig;;vd;oe;vj;vg;	449
 盐城	yán;tm;tm;mb;ga;gt;ga;fh;tm; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	636
@@ -2689,7 +2692,6 @@ sort: by_weight
 鄢陵	yān;ve;ve;ey;db;ml;ft;gh;ve; líng;ew;ew;el,ew;bj;ne;th;bf;ew;	462
 炎陵	yán;hh;hh;hh;tt;ff;cc;oo;hh; líng;ew;ew;el,ew;bj;ne;th;bf;ew;	428
 延平	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; píng;au;au;aa,gb;ds;mj;eh;gu;au;	561
-盐埔	yán;tm;tm;mb;ga;gt;ga;fh;tm; pǔ;tf;tf;tf;gh;gb;gn;fg;tf;	390
 焉耆	yān;vh;vh;vh;dn;mf;fc;gh;ve; qí;lo;lo;lo,ol;gv;ja;qo;ft;uo;	479
 延庆	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; qìng;gd;gd;gd;rx;ik,xk;xm;yd;gd;	628
 铅山	yán;jk;jk;jk;do;or;zd;qm;jk; shān;kl;lk;aa;pp;uu;vs;mm;aa;	442
@@ -2729,7 +2731,7 @@ sort: by_weight
 扬中	yáng;fp;fp;fy;ju;qh;ue;rn;fp; zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa;	488
 扬州	yáng;fp;fp;fy;ju;qh;ue;rn;fp; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	747
 姚安	yáo;nv;nd;nv;yh;vo;bw;vi;nv; ān;bn;bn;bn;iy;jv;wb;pv;gn;	454
-尧都	yáo;yw;aw;gw,wg;ak;ju;pp;at;ge; dōu;le;le;ev;gb;jl;qt;ft;ue;	1
+尧都	yáo;yw;aw;gw,wg;ak;ju;pp;at;ge; dū;le;le;ev;gb;jl;qt;ft;ue;	1
 瑶海	yáo;wf;wf;wf;ap;mu,xo;na;ge;wf; hǎi;dm;dm;dm;kh;ey;kk;it;dm;	531
 耀州	yào;gv;xf;gd,gv;ha;fg;mu;iq;ea; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	486
 叶城	yè;ku;ku;ku;os;rj;dn;kf;ku; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	467
@@ -2747,7 +2749,7 @@ sort: by_weight
 伊川	yī;ry,rp;ry;ry;xu;ok;jt;wv;ry; chuān;pl;pl;pa;up;ll;oc;kt;pa;	481
 宜春	yí;bq;bq;bq;iu;jm;wf;pe;gq; chūn;io;fo;of,fo;uv;qa;ao;dw;ao;	584
 伊春	yī;ry,rp;ry;ry;xu;ok;jt;wv;ry; chūn;io;fo;of,fo;uv;qa;ao;dw;ao;	534
-宜都	yí;bq;bq;bq;iu;jm;wf;pe;gq; dōu;le;le;ev;gb;jl;qt;ft;ue;	479
+宜都	yí;bq;bq;bq;iu;jm;wf;pe;gq; dū;le;le;ev;gb;jl;qt;ft;ue;	479
 宜丰	yí;bq;bq;bq;iu;jm;wf;pe;gq; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa;	437
 宜黄	yí;bq;bq;bq;iu;jm;wf;pe;gq; huáng;cb;cb;ad,cb;zy;tc;nh;am;cb;	436
 弋江	yì;yd;ad;ad,yi;aa;ip;pi;ag;ad; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	386
@@ -2781,7 +2783,7 @@ sort: by_weight
 宜州	yí;bq;bq;bq;iu;jm;wf;pe;gq; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	432
 义竹	yì;dx;dx;di,id;hy,yh;ik,xk;ib;yq;dx; zhú;gg;pl,gg;gg;nn;hh;ru;tt;pd;	1
 银川	yín;jg;jg;jg;dh;ov;zi;qv;jh; chuān;pl;pl;pa;up;ll;oc;kt;pa;	670
-殷都	yīn;pu;py;pu,uu;ul;he;zr;rv;py; dōu;le;le;ev;gb;jl;qt;ft;ue;	334
+殷都	yīn;pu;py;pu,uu;ul;he;zr;rv;py; dū;le;le;ev;gb;jl;qt;ft;ue;	334
 银海	yín;jg;jg;jg;dh;ov;zi;qv;jh; hǎi;dm;dm;dm;kh;ey;kk;it;dm;	491
 印江	yìn;pe;pe;ey,pe;ub;hl;bz;qg;pe; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	457
 印台	yìn;pe;pe;ey,pe;ub;hl;bz;qg;pe; tái;sk;sk;sk;po;ir;kd;ck;vk;	415
@@ -2850,7 +2852,7 @@ sort: by_weight
 雨城	yǔ;ad;ad;ad;yy;my;tv;fg;ad; chéng;ti;ti;ti;gh;gs;ga;fd;tg;	442
 鱼池	yú;da;da;da;qq;nm;wv;qg;ea; chí;dy;dy;dy;kr;ed;ke;ib;dy;	563
 榆次	yú;md;md;my;wi;dn;ep;sw;ld; cì;dq;dr;dq;fe;io,mo;we;uq;dr;	512
-于都	yú;au;al;aa;ss;md;fn;gf;av; dōu;le;le;ev;gb;jl;qt;ft;ue;	508
+于都	yú;au;al;aa;ss;md;fn;gf;av; dū;le;le;ev;gb;jl;qt;ft;ue;	508
 鱼峰	yú;da;da;da;qq;nm;wv;qg;ea; fēng;uf;ef;uf;pa;uj;va;mt;sf;	401
 余干	yú;rm;rh;rb,rd,rh;ef;od;jx;wt;rx; gàn;au;au;aa;ss;mj;eg;fg;au;	465
 余杭	yú;rm;rh;rb,rd,rh;ef;od;jx;wt;rx; háng;mj;mj;mk;wi;dn;eo;sy;lj;	615
@@ -2927,7 +2929,6 @@ sort: by_weight
 云冈	yún;ag,es;es;es,se;up;mi;by;fc;ev; gāng;kx;kx;ki;oy;bk;mb;mq;ax;	487
 运河	yùn;zy;zs;zy;uq;yi;bu;fc;zv; hé;dk;dk;dk;kj;er;kz;is;dk;	733
 云和	yún;ag,es;es;es,se;up;mi;by;fc;ev; hé;hk;hk;hk;uo;hr;xd;t,tk;hk;	592
-筠连	yún;vy;vd;vj;nf;hm;rw;tf;vd; lián;zi;zi;zi;tq;yq;yu;lp;zi;	442
 云林	yún;ag,es;es;es,se;up;mi;by;fc;ev; lín;mm;mm;mm;ww;dd;ee;ss;ll;	631
 云龙	yún;ag,es;es;es,se;up;mi;by;fc;ev; lóng;yp;ud;ad;sh;ip;tl;dx;ab;	635
 云梦	yún;ag,es;es;es,se;up;mi;by;fc;ev; mèng;mx;mx;mx,xl;wf;di;el;ss;lx;	515
@@ -2940,7 +2941,7 @@ sort: by_weight
 云阳	yún;ag,es;es;es,se;up;mi;by;fc;ev; yáng;eo;eo;eo;bv;na;to;bj;eo;	524
 郧阳	yún;ke;ke;ey;ob;rl;dt;km;ke; yáng;eo;eo;eo;bv;na;to;bj;eo;	457
 云州	yún;ag,es;es;es,se;up;mi;by;fc;ev; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	423
-杂多	zá;jm;jm;jm,mj;uf;kd;ke;vs;jx; duō;xx;xx;xx;ff;ni;ll;qq;xx;	550
+杂多	zá;jm;jm;jm,mj;uf;kd;ke;vs;jx; duǒ;xx;xx;xx;ff;ni;ll;qq;xx;	550
 赞皇	zàn;nb;nr;bx;bm;ho;qo;tf;xr; huáng;bw;bw;bw;sa;hg;un;rg;bw;	446
 枣强	zǎo;ud;ad;cd;dh;dy;ew;gm;ad; qiáng;gi;gi;gs;rf;ni;bc;xk;gi;	417
 造桥	zào;zk;zk;zg;bq;yr;qu;tf;zk; qiáo;ml;ml;mq;wp;dl;ep;st;lq;	455
@@ -2976,7 +2977,6 @@ sort: by_weight
 肇东	zhào;hy;hy;hy,yw;qp;hq,iq;mb;yn;ha; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad;	432
 昭化	zhāo;ok;ok;ov;vo;ar;od;jv;ok; huà;rb;rb;rb;xa;op;jv;wx;rb;	437
 昭觉	zhāo;ok;ok;ov;vo;ar;od;jv;ok; jué;xj;xe;dj,jb;hk;fu;ke;ip;ej;	435
-召陵	zhào;dk;dk;dk,kd;io;sr;pd;vk;dk; líng;ew;ew;el,ew;bj;ne;th;bf;ew;	384
 昭平	zhāo;ok;ok;ov;vo;ar;od;jv;ok; píng;au;au;aa,gb;ds;mj;eh;gu;au;	425
 肇庆	zhào;hy;hy;hy,yw;qp;hq,iq;mb;yn;ha; qìng;gd;gd;gd;rx;ik,xk;xm;yd;gd;	615
 昭苏	zhāo;ok;ok;ov;vo;ar;od;jv;ok; sū;cb;cb;cb;zf;tc;lh;al;cb;	458
@@ -3021,6 +3021,7 @@ sort: by_weight
 枝江	zhī;mv;my;mv;wl;de;ec;sf;ly; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	475
 织金	zhī;sv;sb;sv;ef;vc;ih;xk;sb; jīn;rb;ra;ra,pa;ed;cc;zj;qq;ra;	487
 仲巴	zhòng;rv;rv;rv;xp;ol;jg;wk;rv; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv;	368
+中埔	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; bù;tf;tf;tf;gh;gb;gn;fg;tf;	448
 中方	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; fāng;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp;	731
 中和	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; hé;hk;hk;hk;uo;hr;xd;t,tk;hk;	729
 中江	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	544
@@ -3029,7 +3030,6 @@ sort: by_weight
 钟楼	zhōng;jv;jv;jv;dp;ol;zg;qk;jv; lóu;mn;mn;ml;wy;dv;eb;so;ln;	646
 中牟	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; mù;sn;sn;sn;pb;iq;kq;cr;vn;	514
 中宁	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; níng;bd;bd;bd;ij;jn;wa;ps;gd;	470
-中埔	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; pǔ;tf;tf;tf;gh;gb;gn;fg;tf;	448
 中区	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	665
 中山	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; shān;kl;lk;aa;pp;uu;vs;mm;aa;	813
 钟山	zhōng;jv;jv;jv;dp;ol;zg;qk;jv; shān;kl;lk;aa;pp;uu;vs;mm;aa;	566
@@ -3109,7 +3109,7 @@ sort: by_weight
 阿里山	ā;ek;ek;ek;bj;nr;tz;bs;ek; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa; shān;kl;lk;aa;pp;uu;vs;mm;aa;	567
 阿莲区	ā;ek;ek;ek;bj;nr;tz;bs;ek; lián;ci;cz;cl;zq;tq;lu;al;ci; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 阿荣旗	ā;ek;ek;ek;bj;nr;tz;bs;ek; róng;cm;cm;cm,mb;zw;td,xd;le;ap;cl; qí;fb;fb;fq;ff;yc;lh;yt;fb;	355
-阿图什	ā;ek;ek;ek;bj;nr;tz;bs;ek; tú;kd;kd;kd;nh;wy;rw;lt;wd; shén;ru;ru;ru;xs;oj;jn;wf;ru;	409
+阿图什	ā;ek;ek;ek;bj;nr;tz;bs;ek; tú;kd;kd;kd;nh;wy;rw;lt;wd; shí;ru;ru;ru;xs;oj;jn;wf;ru;	409
 阿瓦提	ā;ek;ek;ek;bj;nr;tz;bs;ek; wǎ;ad;ad;ad;dh;mi;rw;gn;ad; tí;fz;fr;fu;je;qo;ut;rj;fr;	406
 爱辉区	ài;vy;py;vy;hl;be;yr;ep;py; huī;gi;xi;gj;ht;fq;my;iq;ei; qū;kx;kx;ki;dr;sk;nb;aq;kx;	339
 爱民区	ài;vy;py;vy;hl;be;yr;ep;py; mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; qū;kx;kx;ki;dr;sk;nb;aq;kx;	223
@@ -3191,7 +3191,6 @@ sort: by_weight
 班戈县	bān;wl;ww;dw,ww;au,aa;mg;nn;gy;ww; gē;yp;ad;ad;aa,ha;ii;pg;ag;ad; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	289
 班玛县	bān;wl;ww;dw,ww;au,aa;mg;nn;gy;ww; mǎ;wm;wm;wm;az;mm;nn;gc;wm; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	399
 板桥区	bǎn;my;my;mf;wl;de,xe;er;sr;ly; qiáo;ml;ml;mq;wp;dl;ep;st;lq; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
-蚌山区	bàng;if;if;if;fa;lj;ca;jd;if; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 宝安区	bǎo;by;by;by;ia;ji;wi;pg;gy; ān;bn;bn;bn;iy;jv;wb;pv;gn; qū;kx;kx;ki;dr;sk;nb;aq;kx;	572
 保德县	bǎo;rm;rm;rd;xw;od;je;wk;rl; dé;rx;ix;xx;hn;hp;wh;tf;rx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	345
 宝坻区	bǎo;by;by;by;ia;ji;wi;pg;gy; dǐ;tu;td;td;gh;gm,gi;gi;fq;td; qū;kx;kx;ki;dr;sk;nb;aq;kx;	480
@@ -3212,6 +3211,7 @@ sort: by_weight
 褒忠乡	bāo;ym;wy;wy,yb;ih;yv;te;yw;wh; zhōng;vx;vx;xv;on;lp;dh;kh;vx; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 北安市	běi;lb;lb;ap,bj;la;lp;av;ux;ab; ān;bn;bn;bn;iy;jv;wb;pv;gn; shì;wj;wj;wj;iy;yb;zr;ym;wj;	368
 北碚区	běi;lb;lb;ap,bj;la;lp;av;ux;ab; bèi;uk;uk;uk,up;to;mr;md;du;uk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	465
+北埔乡	běi;lb;lb;ap,bj;la;lp;av;ux;ab; bù;tf;tf;tf;gh;gb;gn;fg;tf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 北辰区	běi;lb;lb;ap,bj;la;lp;av;ux;ab; chén;iy;in;iy;rh;mv;fc;df;ih; qū;kx;kx;ki;dr;sk;nb;aq;kx;	495
 北戴河	běi;lb;lb;ap,bj;la;lp;av;ux;ab; dài;gg;ub;gg,gy;sf,ha;jc;nh;fa;bg; hé;dk;dk;dk;kj;er;kz;is;dk;	582
 北斗镇	běi;lb;lb;ap,bj;la;lp;av;ux;ab; dǒu;ud;du;du;hs;yj;jd;uf;du; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	1
@@ -3227,13 +3227,13 @@ sort: by_weight
 北门区	běi;lb;lb;ap,bj;la;lp;av;ux;ab; mén;dv;dv;dg;oo;ls;am;uy;dv; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 卑南乡	bēi;pu;pu;pa,up;ss;hj;un;rt;pu; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 北票市	běi;lb;lb;ap,bj;la;lp;av;ux;ab; piào;xu;xx;xu;pi;mf;vf;sf;xx; shì;wj;wj;wj;iy;yb;zr;ym;wj;	357
-北埔乡	běi;lb;lb;ap,bj;la;lp;av;ux;ab; pǔ;tf;tf;tf;gh;gb;gn;fg;tf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 北塔区	běi;lb;lb;ap,bj;la;lp;av;ux;ab; tǎ;tk;tk;td,th;go;gr;gd;fa;tk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	265
 北投区	běi;lb;lb;ap,bj;la;lp;av;ux;ab; tóu;fu;fy;fu;jl;qe;ur;rm;fy; qū;kx;kx;ki;dr;sk;nb;aq;kx;	452
 北屯区	běi;lb;lb;ap,bj;la;lp;av;ux;ab; tún;av;av;ag;dr;pu;fs;gb;av; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 北镇市	běi;lb;lb;ap,bj;la;lp;av;ux;ab; zhèn;jb;jb;jv;df;oc;zh;qf;jb; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
 本溪市	běn;ma;aa;aa,ma;wd;dm;ef;sg;aa; xī;dd;dd;dx;kx;ek;km;ie;dd; shì;wj;wj;wj;iy;yb;zr;ym;wj;	479
 蚌埠市	bèng;if;if;if;fa;lj;ca;jd;if; bù;tu;tu;tf,tu;gs;gj;gn;fw;tu; shì;wj;wj;wj;iy;yb;zr;ym;wj;	517
+蚌山区	bèng;if;if;if;fa;lj;ca;jd;if; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 碧江区	bì;wu;wu;ub,up;at;mr;nm;gr;wk; jiāng;dg;dg;dg;kp;em;ku;ia;dg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 毕节市	bì;bu;bu;bu,ub;as;pj;vn;xx;bu; jié;ce;ce;ce;zb;tl;lz;ab;ce; shì;wj;wj;wj;iy;yb;zr;ym;wj;	489
 比如县	bǐ;bb;bb;bb;aa;pp;vv;xx;bb; rú;nk;nk;nk;yo;vr;bd;vk;nk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	280
@@ -3264,7 +3264,10 @@ sort: by_weight
 亳州市	bó;wq;wq;wq,wt;ia;yp;gr;yp;wq; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	486
 布袋镇	bù;uj;uj;ju,uj;sy;kb;nr;dm;aj; dài;ry;ry;yd;xk;ov;jt;wa;rh; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	387
 布尔津	bù;uj;uj;ju,uj;sy;kb;nr;dm;aj; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; jīn;dy;dy;dy;kp;eq;kb;iv;da;	468
+埔里镇	bù;tf;tf;tf;gh;gb;gn;fg;tf; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	422
 布拖县	bù;uj;uj;ju,uj;sy;kb;nr;dm;aj; tuō;fy;fy;fy;jr;qd;ue;rt;fy; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	283
+埔心乡	bù;tf;tf;tf;gh;gb;gn;fg;tf; xīn;dd;dd;dd;nn;pp;hx;ny;dd; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
+埔盐乡	bù;tf;tf;tf;gh;gb;gn;fg;tf; yán;tm;tm;mb;ga;gt;ga;fh;tm; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 蔡甸区	cài;cu;cx;cj;zi;tf;lf;aw;cx; diān;bt;bt;gt,tg;uw;pw;nq;ql;pt; qū;kx;kx;ki;dr;sk;nb;aq;kx;	418
 苍南县	cāng;cv;cv;cc;zt;tu;lz;aw;cv; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	488
 仓山区	cāng;rv;rv;re;et;ou;jz;wb;rv; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	497
@@ -3325,6 +3328,7 @@ sort: by_weight
 朝天区	cháo;uo;uo;ou,uo;sl;jb;nv;fj;uo; tiān;ad;ad;ad;ue;mk;fm;gd;ad; qū;kx;kx;ki;dr;sk;nb;aq;kx;	320
 朝阳区	cháo;uo;uo;ou,uo;sl;jb;nv;fj;uo; yáng;eo;eo;eo;bv;na;to;bj;eo; qū;kx;kx;ki;dr;sk;nb;aq;kx;	687
 潮阳区	cháo;do;do;di;kl;eb;kv;if;do; yáng;eo;eo;eo;bv;na;to;bj;eo; qū;kx;kx;ki;dr;sk;nb;aq;kx;	443
+朝阳县	chao;uo;uo;ou,uo;sl;jb;nv;fj;uo; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	383
 潮州市	cháo;do;do;di;kl;eb;kv;if;do; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	495
 潮州镇	cháo;do;do;di;kl;eb;kv;if;do; zhōu;dl;dl;id,da;hp;il;oo;yt;da; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	1
 车城乡	chē;au;al;aa;tt;kq;yc;lg;aa; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
@@ -3456,13 +3460,12 @@ sort: by_weight
 丹东市	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; shì;wj;wj;wj;iy;yb;zr;ym;wj;	475
 丹凤县	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; fèng;jy;jy;jy;il;he;or;mc;jy; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	380
 丹江口	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; jiāng;dg;dg;dg;kp;em;ku;ia;dg; kǒu;la;la;aa;oo;rr;dk;kk;aa;	490
-丹棱县	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; léng;mw;mw;ml,mw;wj;de;eh;sf;lw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	345
+丹棱县	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; líng;mw;mw;ml,mw;wj;de;eh;sf;lw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	345
 淡水区	dàn;dh;dh;dy;kt;ef;kc;io;dh; shuǐ;ln;ln;ad,uv;oo;ee;ks;ii;vn; qū;kx;kx;ki;dr;sk;nb;aq;kx;	449
 丹徒区	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; tú;rz;ir;xz;hq,he;ho;wp;tf;rr; qū;kx;kx;ki;dr;sk;nb;aq;kx;	374
 丹阳市	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; yáng;eo;eo;eo;bv;na;to;bj;eo; shì;wj;wj;wj;iy;yb;zr;ym;wj;	412
 丹寨县	dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; zhài;bm;bm;mb,bm;if;jd;we;pf;gx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	369
 儋州市	dān;rk;rk;rv,ry;xc;or;js;wq;rk; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	471
-宕昌县	dàng;bu;bu;bu;it;jr;wm;pd;gk; chāng;oo;oo;oo;vv;aa;oo;jj;oo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	356
 砀山县	dàng;up;up;uy;tu;mh;me;dn;up; shān;kl;lk;aa;pp;uu;vs;mm;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	410
 当涂县	dāng;xe;xe;xx;hs;fm;yb;iv;ea; tú;dm;dh;dy;kf;ed;kx;iw;dx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	407
 当雄县	dāng;xe;xe;xx;hs;fm;yb;iv;ea; xióng;uv;uf;vh,vs;sa;kg;nu;dc;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	352
@@ -3561,16 +3564,16 @@ sort: by_weight
 东源县	dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; yuán;dx;dx;dy;ki;ef;ky;id;dx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	374
 东至县	dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; zhì;gt;at;tv,vt;dg;mg;yi;gc;at; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	354
 东洲区	dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; zhōu;dv;dv,dl;dv;kp;el;ko;iy;dv; qū;kx;kx;ki;dr;sk;nb;aq;kx;	359
-都昌县	dōu;le;le;ev;gb;jl;qt;ft;ue; chāng;oo;oo;oo;vv;aa;oo;jj;oo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	408
-都兰县	dōu;le;le;ev;gb;jl;qt;ft;ue; lán;bs;bs;bs,qe;fu;tm;ht;uf;es; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	401
 斗六市	dòu;ud;du;du;hs;yj;jd;uf;du; liù;wb;wb;wb,dd,db;if;yc;al;uy;wb; shì;wj;wj;wj;iy;yb;zr;ym;wj;	420
 斗门区	dǒu;ud;du;du;hs;yj;jd;uf;du; mén;dv;dv;dg;oo;ls;am;uy;dv; qū;kx;kx;ki;dr;sk;nb;aq;kx;	458
 斗南镇	dòu;ud;du;du;hs;yj;jd;uf;du; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	1
-都匀市	dōu;le;le;ev;gb;jl;qt;ft;ue; yún;bd;bd;gd;uf;pm;nw;qu;pd; shì;wj;wj;wj;iy;yb;zr;ym;wj;	398
+都昌县	dū;le;le;ev;gb;jl;qt;ft;ue; chāng;oo;oo;oo;vv;aa;oo;jj;oo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	408
 杜集区	dù;mt;mt;mt;wg;dg;eg;sf;lt; jí;rm;rm;mv,vm;xw;od;ue;wy;rl; qū;kx;kx;ki;dr;sk;nb;aq;kx;	308
 都江堰	dū;le;le;ev;gb;jl;qt;ft;ue; jiāng;dg;dg;dg;kp;em;ku;ia;dg; yàn;tn;tn;tn,ty;gr;gv;gb;fa;tn;	614
+都兰县	dū;le;le;ev;gb;jl;qt;ft;ue; lán;bs;bs;bs,qe;fu;tm;ht;uf;es; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	401
 独山县	dú;qi;qi;qi;bf;ki;mc;qt;qi; shān;kl;lk;aa;pp;uu;vs;mm;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	392
 独山子	dú;qi;qi;qi;bf;ki;mc;qt;qi; shān;kl;lk;aa;pp;uu;vs;mm;aa; zǐ;la;va;aa,vh;aa;nd;hi;bb;va;	443
+都匀市	dū;le;le;ev;gb;jl;qt;ft;ue; yún;bd;bd;gd;uf;pm;nw;qu;pd; shì;wj;wj;wj;iy;yb;zr;ym;wj;	398
 端州区	duān;le;le;le;bb;yb;il;um;le; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	374
 敦化市	dūn;ww;ww;wx;ij;yk;gh;yb;ww; huà;rb;rb;rb;xa;op;jv;wx;rb; shì;wj;wj;wj;iy;yb;zr;ym;wj;	375
 敦煌市	dūn;ww;ww;wx;ij;yk;gh;yb;ww; huáng;hw;hw;hh;ta;fg;cn;or;hw; shì;wj;wj;wj;iy;yb;zr;ym;wj;	456
@@ -3582,7 +3585,7 @@ sort: by_weight
 额敏县	é;by;br;yk;im;jo;ww;pt;gr; mǐn;pw;pw;wm;ej;ok;eh;tx;mw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	316
 鄂州市	è;ke;ke;ee,ek;ob;rl;dt;kk;ke; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	461
 恩平市	ēn;yx;kx;xy;nn;wp;rh;ld;wx; píng;au;au;aa,gb;ds;mj;eh;gu;au; shì;wj;wj;wj;iy;yb;zr;ym;wj;	389
-恩施市	ēn;yx;kx;xy;nn;wp;rh;ld;wx; shī;fy;fy;fy;fr;yd;le;yt;fy; shì;wj;wj;wj;iy;yb;zr;ym;wj;	440
+恩施市	ēn;yx;kx;xy;nn;wp;rh;ld;wx; shī;fy;fy;fy;fr;yd;le;yt;fy; shī;wj;wj;wj;iy;yb;zr;ym;wj;	440
 恩阳区	ēn;yx;kx;xy;nn;wp;rh;ld;wx; yáng;eo;eo;eo;bv;na;to;bj;eo; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 二道江	èr;aa;aa;aa;uu;mm;me;fg;aa; dào;zz;zz;zu;fq;yu;hu;ut;zm; jiāng;dg;dg;dg;kp;em;ku;ia;dg;	1
 二道区	èr;aa;aa;aa;uu;mm;me;fg;aa; dào;zz;zz;zu;fq;yu;hu;ut;zm; qū;kx;kx;ki;dr;sk;nb;aq;kx;	430
@@ -3595,7 +3598,7 @@ sort: by_weight
 繁昌区	fán;px;px;sm;ei;of;ei;tx;mx; chāng;oo;oo;oo;vv;aa;oo;jj;oo; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 樊城区	fán;md;md;dm;wx;dk;em;sq;ld; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	360
 番路乡	fān;ct;pt;tb,pt,tm;hw,uw;hw;tq;to;pt; lù;zk;zk;zg;go;rr;ps;kh;zk; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
-繁峙县	fán;px;px;sm;ei;of;ei;tx;mx; zhì;uc;ec;us;pk;ui;vk;mf;sc; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	409
+繁峙县	fán;px;px;sm;ei;of;ei;tx;mx; shì;uc;ec;us;pk;ui;vk;mf;sc; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	409
 防城港	fáng;ef;ef;ef;bf;ns;tl;by;ef; chéng;ti;ti;ti;gh;gs;ga;fd;tg; gǎng;ds;ds;dx;kt;eu;kv;ia;dv;	537
 防城区	fáng;ef;ef;ef;bf;ns;tl;by;ef; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	348
 方城县	fāng;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	433
@@ -3617,7 +3620,7 @@ sort: by_weight
 丰滨乡	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; bīn;db;db;db;kf;ec;kh;ip;db; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 丰城市	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; chéng;ti;ti;ti;gh;gs;ga;fd;tg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	386
 凤城市	fèng;jy;jy;jy;il;he;or;mc;jy; chéng;ti;ti;ti;gh;gs;ga;fd;tg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	358
-丰都县	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; dōu;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	425
+丰都县	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; dū;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	425
 凤冈县	fèng;jy;jy;jy;il;he;or;mc;jy; gāng;kx;kx;ki;oy;bk;mb;mq;ax; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	342
 奉化区	fèng;if;fl;ff;up;qq;au;dw;aa; huà;rb;rb;rb;xa;op;jv;wx;rb; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 凤凰县	fèng;jy;jy;jy;il;he;or;mc;jy; huáng;jw;jw;jh;ia;hg;on;mr;jw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	422
@@ -3643,13 +3646,14 @@ sort: by_weight
 丰原区	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; yuán;ix;ix;ix;ri;mf;xy;dr;ix; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 丰泽区	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; zé;df;dl;df;kp;eq;ku;ic;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	428
 丰镇市	fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; zhèn;jb;jb;jv;df;oc;zh;qf;jb; shì;wj;wj;wj;iy;yb;zr;ym;wj;	338
+佛冈县	fó;rf;rf;rf;xp;on;jt;wx;rf; gāng;kx;kx;ki;oy;bk;mb;mq;ax; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	369
+佛坪县	fó;rf;rf;rf;xp;on;jt;wx;rf; píng;tp;tp;tp;gs;gj;gh;fg;tu; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	344
 佛山市	fó;rf;rf;rf;xp;on;jt;wx;rf; shān;kl;lk;aa;pp;uu;vs;mm;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	635
 福安市	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; ān;bn;bn;bn;iy;jv;wb;pv;gn; shì;wj;wj;wj;iy;yb;zr;ym;wj;	432
 涪城区	fú;dk;dk;dk,dp;ko;er;kd;iu;dk; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	388
 阜城县	fù;pu;pu;pu,uk,vu;us;hj;tn;wn;pu; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	333
 福鼎市	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; dǐng;po;ov;oa,od;sr;bl,bn;qa;hn;mv; shì;wj;wj;wj;iy;yb;zr;ym;wj;	441
 扶风县	fú;ff;ff;ff;je;qo;uh;rf;ff; fēng;jx;jx;ji;iy;hk;ob;mq;jx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	416
-佛冈县	fú;rf;rf;rf;xp;on;jt;wx;rf; gāng;kx;kx;ki;oy;bk;mb;mq;ax; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	369
 福贡县	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; gòng;gb;gr;bg,gb;pm;mo,xo;uo;am;gr; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	323
 扶沟县	fú;ff;ff;ff;je;qo;uh;rf;ff; gōu;dg;ds;dg;kp;ei;kk;iq;dv; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	368
 府谷县	fǔ;gc;gc;gf;rw,rk;ii;xk;yw;gc; gǔ;bk;bk;bk,kr;fo;cr;hg;ww;bk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	455
@@ -3668,7 +3672,6 @@ sort: by_weight
 富宁县	fù;bt;bt;bf,bt;iw;jw;wq;pg;gt; níng;bd;bd;bd;ij;jn;wa;ps;gd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	366
 富平县	fù;bt;bt;bf,bt;iw;jw;wq;pg;gt; píng;au;au;aa,gb;ds;mj;eh;gu;au; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	419
 阜平县	fù;pu;pu;pu,uk,vu;us;hj;tn;wn;pu; píng;au;au;aa,gb;ds;mj;eh;gu;au; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	418
-佛坪县	fú;rf;rf;rf;xp;on;jt;wx;rf; píng;tp;tp;tp;gs;gj;gh;fg;tu; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	344
 福清市	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; qīng;do;do;dq;kl;eb;kv;ig;do; shì;wj;wj;wj;iy;yb;zr;ym;wj;	511
 福泉市	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; quán;bu;bu;bu,ub;so;he;uk;ri;bu; shì;wj;wj;wj;iy;yb;zr;ym;wj;	373
 芙蓉区	fú;cf;cf;cf;ze;to;lh;af;cf; róng;cg;ck;cr;zo;tr;lh;ap;ck; qū;kx;kx;ki;dr;sk;nb;aq;kx;	480
@@ -3693,7 +3696,6 @@ sort: by_weight
 福州市	fú;pt;pt;uf,ut;hw;iw;fq;py;pt; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	641
 抚州市	fǔ;fw;fw;fw;jk;qu;ud;rf;fw; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	496
 噶尔县	gá;kr;kv;kg;or;rv;df;ka;kg; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	276
-伽师县	gā;rk;rk;rj;xo;or;jd;wl;rk; shī;lj;lj;ab,aj,db,dj;py;lb;pr;jg;aj; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	324
 改则县	gǎi;jw;jw;wj,jw;tj;sk;vh;nt;jw; zé;bd;kd;bd,db;mi;bn;op;mj;bd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	340
 盖州市	gài;ym;ym;my,ym;fa;tt;ga;ug;em; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	368
 甘德县	gān;ca;na,aa;aa,ca;vv;tm;zg;af;aa; dé;rx;ix;xx;hn;hp;wh;tf;rx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	296
@@ -3826,6 +3828,7 @@ sort: by_weight
 桂阳县	guì;mt;mt;mg;wg;dg;eg;sf;lt; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	406
 贵州省	guì;vb;vr;ba,vb;fm;lo;co;kh;vr; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shěng;uo;uo;ou;is;fu;yq;it;um;	700
 国姓乡	guó;ky;ky;ky;na;wi;ri;l,lg;wy; xìng;nu;nu;nu;ya;vm;bl;vt;nu; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
+涡阳县	guō;dn;dn;dg,dn;ke;eb;kj;ik;dn; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	412
 哈巴河	hǎ;kk;kk;kh;oo;rr;dd;kw;kk; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; hé;dk;dk;dk;kj;er;kz;is;dk;	394
 哈尔滨	hā;kk;kk;kh;oo;rr;dd;kw;kk; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; bīn;db;db;db;kf;ec;kh;ip;db;	781
 哈密市	hā;kk;kk;kh;oo;rr;dd;kw;kk; mì;bu;be;ub,bu;ip;ju;wv;pn;gs; shì;wj;wj;wj;iy;yb;zr;ym;wj;	434
@@ -3934,7 +3937,6 @@ sort: by_weight
 衡阳县	héng;rd;ii;xd,xi;hs;hn;pw;tq;rd; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	406
 横州市	héng;mb;mb;mh;wy;dc;en;sa;lb; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
 红安县	hóng;sg;sg;sg;ep;vm;iu;xa;sg; ān;bn;bn;bn;iy;jv;wb;pv;gn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	423
-洪洞县	hóng;dg;db;dg;kf;ec;kh;ia;db; dòng;dk;dk;dt;ko;er;kd;im;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	447
 红岗区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; gǎng;ux;ex;ug;py;uk;vb;mm;sx; qū;kx;kx;ki;dr;sk;nb;aq;kx;	258
 红古区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; gǔ;uk;uk;uk;so;jr;cg;dg;uk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	375
 红谷滩	hóng;sg;sg;sg;ep;vm;iu;xa;sg; gǔ;bk;bk;bk,kr;fo;cr;hg;ww;bk; tān;dv;df;dn;ka;eg;ku;ic;dn;	1
@@ -3947,8 +3949,9 @@ sort: by_weight
 红桥区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; qiáo;ml;ml;mq;wp;dl;ep;st;lq; qū;kx;kx;ki;dr;sk;nb;aq;kx;	484
 洪山区	hóng;dg;db;dg;kf;ec;kh;ia;db; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	501
 红山区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	451
-红寺堡	hóng;sg;sg;sg;ep;vm;iu;xa;sg; sì;tc;tc;ct,tc;gk;gi;gk;ff;tc; bǎo;rt;rt;tb;xg;og;jg;wk;rt;	374
+红寺堡	hóng;sg;sg;sg;ep;vm;iu;xa;sg; sì;tc;tc;ct,tc;gk;gi;gk;ff;tc; bǔ;rt;rt;tb;xg;og;jg;wk;rt;	374
 红塔区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; tǎ;tk;tk;td,th;go;gr;gd;fa;tk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	384
+洪洞县	hóng;dg;db;dg;kf;ec;kh;ia;db; tóng;dk;dk;dt;ko;er;kd;im;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	447
 宏伟区	hóng;bs;bs;bh,bs;ip;ji;wk;pd;gv; wěi;rw;rw;rw;xp;os;jg;wf;rw; qū;kx;kx;ki;dr;sk;nb;aq;kx;	194
 洪雅县	hóng;dg;db;dg;kf;ec;kh;ia;db; yǎ;yv;yf;vy,yv;da;mg;lu;ah;ya; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	401
 红原县	hóng;sg;sg;sg;ep;vm;iu;xa;sg; yuán;ix;ix;ix;ri;mf;xy;dr;ix; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	388
@@ -4041,7 +4044,6 @@ sort: by_weight
 会昌县	huì;ry;rs;ry;ep;oi;jb;wf;rv; chāng;oo;oo;oo;vv;aa;oo;jj;oo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	379
 惠城区	huì;ix;ax;xh,hx;dn;jp;nh;gj;ax; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	480
 汇川区	huì;dk;dk;dk;kr;es;kn;ia;dk; chuān;pl;pl;pa;up;ll;oc;kt;pa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	382
-珲春市	huī;wi;wi;wj;at;mq;ny;gp;wi; chūn;io;fo;of,fo;uv;qa;ao;dw;ao; shì;wj;wj;wj;iy;yb;zr;ym;wj;	420
 惠东县	huì;ix;ax;xh,hx;dn;jp;nh;gj;ax; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	449
 会东县	huì;ry;rs;ry;ep;oi;jb;wf;rv; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	327
 惠济区	huì;ix;ax;xh,hx;dn;jp;nh;gj;ax; jì;dq;dl;dq;kp;el;kq;iy;dq; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
@@ -4061,6 +4063,7 @@ sort: by_weight
 徽州区	huī;rx;iw;xw;hj;hk;wh;tm;rw; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	404
 惠州市	huì;ix;ax;xh,hx;dn;jp;nh;gj;ax; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	589
 回族区	huí;kk;kk;kk;no;wr;rd;lk;wk; zú;fu;fu;fu;fx;yk;lo;yt;fd; qū;kx;kx;ki;dr;sk;nb;aq;kx;	271
+珲春市	hún;wi;wi;wj;at;mq;ny;gp;wi; chūn;io;fo;of,fo;uv;qa;ao;dw;ao; shì;wj;wj;wj;iy;yb;zr;ym;wj;	420
 浑江区	hún;di;di;dj;kt;eq;ky;ip;di; jiāng;dg;dg;dg;kp;em;ku;ia;dg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 浑南区	hún;di;di;dj;kt;eq;ky;ip;di; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 浑源县	hún;di;di;dj;kt;eq;ky;ip;di; yuán;dx;dx;dy;ki;ef;ky;id;dx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	375
@@ -4102,7 +4105,6 @@ sort: by_weight
 冀州区	jì;bg;lb;bg,by;lf;lc;ah;ux;bb; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 加查县	jiā;lk;lk;lk,kl;uo;kr;sd;lk;lk; chá;md;ma;md;wd;dm;ef;sj;ld; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	247
 嘉定区	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; dìng;bz;br;bp;ie;jo;wt;pg;gr; qū;kx;kx;ki;dr;sk;nb;aq;kx;	522
-茄萣区	jiā;ck;ck;cj;zo;tr;ld;al;ck; dìng;cz;cr;cd;ze;to;lt;ap;cr; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 佳冬乡	jiā;rt;rt;rg;xg;og;jg;wf;rt; dōng;wd;wd;wd;jh;hy;hw;tu;wd; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 嘉禾县	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; hé;pm;pm,qn;pd,pm;uw;hd;xh;tt;qn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	363
 夹江县	jiā;ar;an;fb,ar;dx;kt;hh;gu;an; jiāng;dg;dg;dg;kp;em;ku;ia;dg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	370
@@ -4111,6 +4113,7 @@ sort: by_weight
 嘉陵区	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; líng;ew;ew;el,ew;bj;ne;th;bf;ew; qū;kx;kx;ki;dr;sk;nb;aq;kx;	393
 佳木斯	jiā;rt;rt;rg;xg;og;jg;wf;rt; mù;ur;un,an;ad;ww;dd;em;ss;un; sī;cj;qj;jq,qj;vp;tl;zt;ad;qj;	564
 嘉善县	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; shàn;yk;yk;yk,ka,kq;fo;tr;gd;ud;ek; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	431
+伽师县	jiā;rk;rk;rj;xo;or;jd;wl;rk; shī;lj;lj;ab,aj,db,dj;py;lb;pr;jg;aj; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	324
 贾汪区	jiǎ;xb;xr;bx,xb;pm;mo;vo;sm;xr; wāng;dw;dw;dw;ka;eg;kn;ig;dw; qū;kx;kx;ki;dr;sk;nb;aq;kx;	356
 甲仙区	jiǎ;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; xiān;ru;re;ru;xp;ou;jv;wm;rs; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 嘉祥县	jiā;tk;uk;uj;go;gr,xr;hd;fk;uk; xiáng;py;py;uy;hp;iq;fg;py;py; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	410
@@ -4272,9 +4275,10 @@ sort: by_weight
 句容市	jù;bk;bk;gk,kg,pk;ii;pr;gj;qk;pk; róng;bg;bk;bg;io;jr;wh;pw;gk; shì;wj;wj;wj;iy;yb;zr;ym;wj;	431
 巨野县	jù;kk;ka;kk,aa;dr;ss;nn;an;ka; yě;ly;ll;ly,yl;vp;wn;di;jf;ly; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	408
 鄄城县	juàn;xe;xe;et,ey;pb;ml,xl;vt;sf;xe; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	387
+筠连县	jūn;vy;vd;vj;nf;hm;rw;tf;vd; lián;zi;zi;zi;tq;yq;yu;lp;zi; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	384
 君山区	jūn;yk;yk;ky;ro;sr;bd;vt;yk; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	332
 卡若区	kǎ;ub;ub;bx,ub;ph;yy;yy;hh;ub; ruò;ck;ck;cy;zo;tr;ld;ad;ck; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
-喀什市	kā;kk;kk;kk;oo;rr;ds;kp;kk; shí;ru;ru;ru;xs;oj;jn;wf;ru; shì;wj;wj;wj;iy;yb;zr;ym;wj;	431
+喀什市	kā;kk;kk;kk;oo;rr;ds;kp;kk; shí;ru;ru;ru;xs;oj;jn;wf;ru; shí;wj;wj;wj;iy;yb;zr;ym;wj;	431
 开封市	kāi;ac;ac;ac;up;mt;fl;ga;aa; fēng;tc;tc;cg;gk;gi;gk;ff;tc; shì;wj;wj;wj;iy;yb;zr;ym;wj;	545
 开福区	kāi;ac;ac;ac;up;mt;fl;ga;aa; fú;pt;pt;uf,ut;hw;iw;fq;py;pt; qū;kx;kx;ki;dr;sk;nb;aq;kx;	500
 开化县	kāi;ac;ac;ac;up;mt;fl;ga;aa; huà;rb;rb;rb;xa;op;jv;wx;rb; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	399
@@ -4288,7 +4292,7 @@ sort: by_weight
 开远市	kāi;ac;ac;ac;up;mt;fl;ga;aa; yuǎn;zy;ze;zy;uq;yu;mu;fq;ze; shì;wj;wj;wj;iy;yb;zr;ym;wj;	338
 开州区	kāi;ac;ac;ac;up;mt;fl;ga;aa; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 崁顶乡	kàn;uq;er;uk;pe;uo;ve;mf;sr; dǐng;dy;dr;dy,yd;jm;mo;aw;sd;dr; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
-康巴什	kāng;gl;gn;gl;ro;ie;xk;yv;gl; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; shén;ru;ru;ru;xs;oj;jn;wf;ru;	1
+康巴什	kāng;gl;gn;gl;ro;ie;xk;yv;gl; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; shí;ru;ru;ru;xs;oj;jn;wf;ru;	1
 康保县	kāng;gl;gn;gl;ro;ie;xk;yv;gl; bǎo;rm;rm;rd;xw;od;je;wk;rl; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	331
 康定市	kāng;gl;gn;gl;ro;ie;xk;yv;gl; dìng;bz;br;bp;ie;jo;wt;pg;gr; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
 康乐县	kāng;gl;gn;gl;ro;ie;xk;yv;gl; lè;px;pd;pd,px;ui;hd;by;qi;pd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	367
@@ -4310,7 +4314,7 @@ sort: by_weight
 宽城区	kuān;bj;be;bj,jb;ik;ju,xu;we;pa;gj; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	425
 奎屯市	kuí;dt;dt;dg;xg;kg;mg;df;dt; tún;av;av;ag;dr;pu;fs;gb;av; shì;wj;wj;wj;iy;yb;zr;ym;wj;	366
 奎文区	kuí;dt;dt;dg;xg;kg;mg;df;dt; wén;wx;wx;wi,dd;jj;yk;vw;yy;wx; qū;kx;kx;ki;dr;sk;nb;aq;kx;	377
-昆都仑	kūn;ob;ob;ob;va;ap;ov;jx;ob; dōu;le;le;ev;gb;jl;qt;ft;ue; lún;rb;rb;rb;ea,xa;op,xp;jl;wx;rb;	1
+昆都仑	kūn;ob;ob;ob;va;ap;ov;jx;ob; dū;le;le;ev;gb;jl;qt;ft;ue; lún;rb;rb;rb;ea,xa;op,xp;jl;wx;rb;	1
 昆明市	kūn;ob;ob;ob;va;ap;ov;jx;ob; míng;oo;oo;oo;vl;ab;ov;je;oo; shì;wj;wj;wj;iy;yb;zr;ym;wj;	674
 昆山市	kūn;ob;ob;ob;va;ap;ov;jx;ob; shān;kl;lk;aa;pp;uu;vs;mm;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	512
 昆玉市	kūn;ob;ob;ob;va;ap;ov;jx;ob; yù;wd;wd;ad,wd;aa;mi;ni;gy;wd; shì;wj;wj;wj;iy;yb;zr;ym;wj;	260
@@ -4339,7 +4343,7 @@ sort: by_weight
 兰屿乡	lán;bs;bs;bs,qe;fu;tm;ht;uf;es; yǔ;uy;ey;uy;pd;um;vf;mg;sy; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 兰州市	lán;bs;bs;bs,qe;fu;tm;ht;uf;es; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	631
 廊坊市	láng;ge;ge;gl;rb;il;xt;yy;ge; fāng;tf;tf;tf;gf;gs;gl;fy;tf; shì;wj;wj;wj;iy;yb;zr;ym;wj;	536
-浪卡子	làng;dl;dl;dl;kh;ev;ki;iy;dh; qiǎ;ub;ub;bx,ub;ph;yy;yy;hh;ub; zi;la;va;aa,vh;aa;nd;hi;bb;va;	335
+浪卡子	làng;dl;dl;dl;kh;ev;ki;iy;dh; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; zi;la;va;aa,vh;aa;nd;hi;bb;va;	335
 郎溪县	láng;le;de;el;hb;il;it;yv;de; xī;dd;dd;dx;kx;ek;km;ie;dd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	356
 琅琊区	láng;wl;wl;wl;;mv;ni;gy;wh; yá;we;we;wx;ab;ml;nt;ga;we; qū;kx;kx;ki;dr;sk;nb;aq;kx;	317
 阆中市	láng;ml;ml;ml;oh;lv;ai;uy;mh; zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	446
@@ -4393,7 +4397,7 @@ sort: by_weight
 利州区	lì;hd;hd;hd,dh;ui;hn;xp;tj;hd; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 连城县	lián;zi;zi;zi;tq;yq;yu;lp;zi; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	409
 莲池区	lián;ci;cz;cl;zq;tq;lu;al;ci; chí;dy;dy;dy;kr;ed;ke;ib;dy; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
-莲都区	lián;ci;cz;cl;zq;tq;lu;al;ci; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	407
+莲都区	lián;ci;cz;cl;zq;tq;lu;al;ci; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	407
 莲湖区	lián;ci;cz;cl;zq;tq;lu;al;ci; hú;do;do;dh;kl;eb;kv;id;do; qū;kx;kx;ki;dr;sk;nb;aq;kx;	465
 莲花县	lián;ci;cz;cl;zq;tq;lu;al;ci; huā;cb;cb;ch;za;tp;lv;aw;cb; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	353
 廉江市	lián;gj;gn;gj;rf;ic;xc;yu;gj; jiāng;dg;dg;dg;kp;em;ku;ia;dg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	430
@@ -4538,9 +4542,9 @@ sort: by_weight
 龙潭区	lóng;yp;ud;ad;sh;ip;tl;dx;ab; tán;du;du;dt;ks;ej;kn;is;du; qū;kx;kx;ki;dr;sk;nb;aq;kx;	422
 龙亭区	lóng;yp;ud;ad;sh;ip;tl;dx;ab; tíng;wd;wd;wd,db,dd;ij;yn,xn;ga;yp;wd; qū;kx;kx;ki;dr;sk;nb;aq;kx;	294
 龙湾区	lóng;yp;ud;ad;sh;ip;tl;dx;ab; wān;dg;dg;dw;kr;en;kb;iy;dg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	433
-龙圩区	lóng;yp;ud;ad;sh;ip;tl;dx;ab; wéi;ty;ty;ty;gs;gd;gn;fg;ty; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 龙文区	lóng;yp;ud;ad;sh;ip;tl;dx;ab; wén;wx;wx;wi,dd;jj;yk;vw;yy;wx; qū;kx;kx;ki;dr;sk;nb;aq;kx;	398
 陇西县	lǒng;el;el;el;bh;np;tt;bd;eb; xī;ak,wk;aa;aa;pp;mw;vx;sg;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	386
+龙圩区	lóng;yp;ud;ad;sh;ip;tl;dx;ab; xū;ty;ty;ty;gs;gd;gn;fg;ty; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 龙岩市	lóng;yp;ud;ad;sh;ip;tl;dx;ab; yán;uu;eu;uu;pt;ur;vm;md;sk; shì;wj;wj;wj;iy;yb;zr;ym;wj;	520
 隆阳区	lóng;eu;eu;eu;ba;nm;tl;bt;eu; yáng;eo;eo;eo;bv;na;to;bj;eo; qū;kx;kx;ki;dr;sk;nb;aq;kx;	376
 隆尧县	lóng;eu;eu;eu;ba;nm;tl;bt;eu; yáo;yw;aw;gw,wg;ak;ju;pp;at;ge; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	392
@@ -4597,6 +4601,7 @@ sort: by_weight
 滦南县	luán;dm;dm;dl;kw;ed;ke;iy;dl; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	353
 滦平县	luán;dm;dm;dl;kw;ed;ke;iy;dl; píng;au;au;aa,gb;ds;mj;eh;gu;au; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	434
 滦州市	luán;dm;dm;dl;kw;ed;ke;iy;dl; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
+略阳县	lue;tk;tk;tg;wo;wr;qs;lt;tk; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	354
 仑背乡	lún;rb;rb;rb;ea,xa;op,xp;jl;wx;rb; bèi;bo;lo;ob;ll;lb;av;ux;bo; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 轮台县	lún;il;ib;il;ta;kp;yj;lw;ib; tái;sk;sk;sk;po;ir;kd;ck;vk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	335
 萝北县	luó;cx;cx;cl;zf;tn,xn;ll;al;cx; běi;lb;lb;ap,bj;la;lp;av;ux;ab; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	332
@@ -4624,7 +4629,6 @@ sort: by_weight
 吕梁市	lǚ;kk;kk;kk;oo;rr;dd;kk;kk; liáng;dm;dm;mb;kw;ed;ke;iv;dl; shì;wj;wj;wj;iy;yb;zr;ym;wj;	508
 旅顺口	lǚ;fy;fn;fp;fh;yv;lt;yt;fh; shùn;iy;ir;yi;um;lo;ow;kd;ir; kǒu;la;la;aa;oo;rr;dk;kk;aa;	495
 绿园区	lǜ;su;su;sl;eo;ve;ik;xv;su; yuán;ky;ke;ky;nk;wu;rp;lf;we; qū;kx;kx;ki;dr;sk;nb;aq;kx;	424
-略阳县	lüè;tk;tk;tg;wo;wr;qs;lt;tk; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	354
 马鞍山	mǎ;va;va;aa,vh;zz;nm;nm;cn;va; ān;gn;gn;ga;vy;tv;tb;af;cn; shān;kl;lk;aa;pp;uu;vs;mm;aa;	625
 麻城市	má;gm;gm;gl;dd;id,ic;zm;ys;gl; chéng;ti;ti;ti;gh;gs;ga;fd;tg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	410
 马村区	mǎ;va;va;aa,vh;zz;nm;nm;cn;va; cūn;mc;mc;mc;wk;di;ek;sf;lc; qū;kx;kx;ki;dr;sk;nb;aq;kx;	374
@@ -4693,11 +4697,11 @@ sort: by_weight
 苗栗市	miáo;ct;ct;ct;zw;tw;lq;al;ct; lì;xm;xm;xm;pw;md;ve;ss;xl; shì;wj;wj;wj;iy;yb;zr;ym;wj;	411
 苗栗县	miáo;ct;ct;ct;zw;tw;lq;al;ct; lì;xm;xm;xm;pw;md;ve;ss;xl; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	577
 民丰县	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	308
+闵行区	mǐn;mw;mw;mw;oj;lk;av;uy;mx; háng;rd;ii;xd,xi;hs;hn;px;tf;rd; qū;kx;kx;ki;dr;sk;nb;aq;kx;	561
 闽侯县	mǐn;mi;mi;im,mi;of;li;ac;uj;mi; hòu;ru;ru;ru;xx;ok;jo;wn;rd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	493
 民勤县	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; qín;cl;nl;lj;vu;ts;ls;ak;cl; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	352
 闽清县	mǐn;mi;mi;im,mi;of;li;ac;uj;mi; qīng;do;do;dq;kl;eb;kv;ig;do; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	450
 民权县	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; quán;my;my;my;wl;de;er;sc;ly; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	391
-闵行区	mǐn;mw;mw;mw;oj;lk;av;uy;mx; xíng;rd;ii;xd,xi;hs;hn;px;tf;rd; qū;kx;kx;ki;dr;sk;nb;aq;kx;	561
 民雄乡	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; xióng;uv;uf;vh,vs;sa;kg;nu;dc;aa; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 民乐县	mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; yuè;px;pd;pd,px;ui;hd;by;qi;pd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	377
 明光市	míng;oo;oo;oo;vl;ab;ov;je;oo; guāng;xe;xw;ea,xw;hk;fu;mg;iq;ee; shì;wj;wj;wj;iy;yb;zr;ym;wj;	371
@@ -4715,7 +4719,7 @@ sort: by_weight
 牡丹区	mǔ;nt;nt;nt;bg;hg;qg;tr;nt; dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	377
 牡丹乡	mǔ;nt;nt;nt;bg;hg;qg;tr;nt; dān;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	347
 木兰县	mù;ur;un,an;ad;ww;dd;em;ss;un; lán;bs;bs;bs,qe;fu;tm;ht;uf;es; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	339
-穆棱市	mù;hp;hp;hp;uu;hh;xe;tr;hp; léng;mw;mw;ml,mw;wj;de;eh;sf;lw; shì;wj;wj;wj;iy;yb;zr;ym;wj;	323
+穆棱市	mù;hp;hp;hp;uu;hh;xe;tr;hp; líng;mw;mw;ml,mw;wj;de;eh;sf;lw; shì;wj;wj;wj;iy;yb;zr;ym;wj;	323
 牟平区	mù;sn;sn;sn;pb;iq;kq;cr;vn; píng;au;au;aa,gb;ds;mj;eh;gu;au; qū;kx;kx;ki;dr;sk;nb;aq;kx;	404
 牧野区	mù;nw;nw;nw;bj;hk;qh;tr;nw; yě;ly;ll;ly,yl;vp;wn;di;jf;ly; qū;kx;kx;ki;dr;sk;nb;aq;kx;	253
 那玛夏	nà;ve;ve;el;rb;sl;at;vf;ve; mǎ;wm;wm;wm;az;mm;nn;gc;wm; xià;bw;aw;wz,aw;dj;me;fh;dh;aw;	1
@@ -4782,12 +4786,12 @@ sort: by_weight
 楠梓区	nán;mg;mg;mn;ws;dj;eg;sf;lu; zǐ;mx;mu;mx;ws;dj,xj;en;su;lu; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 囊谦县	náng;gy;ay;ay;dh;jv;nt;gk;ah; qiān;yj;yn;yj;cf;ic;sc;yu;yj; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	376
 讷河市	nè;yn;yn;yn;ce;ib;sj;ym;yn; hé;dk;dk;dk;kj;er;kz;is;dk; shì;wj;wj;wj;iy;yb;zr;ym;wj;	310
+内埔乡	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; bù;tf;tf;tf;gh;gb;gn;fg;tf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 内湖区	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; hú;do;do;dh;kl;eb;kv;id;do; qū;kx;kx;ki;dr;sk;nb;aq;kx;	439
 内黄县	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; huáng;cb;cb;ad,cb;zy;tc;nh;am;cb; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	408
 内江市	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; jiāng;dg;dg;dg;kp;em;ku;ia;dg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	480
 内门区	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; mén;dv;dv;dg;oo;ls;am;uy;dv; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 内蒙古	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; méng;cu;cu,cn;cm,cu;zh;to;lj;ap;cn; gǔ;uk;uk;uk;so;jr;cg;dg;uk;	772
-内埔乡	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; pǔ;tf;tf;tf;gh;gb;gn;fg;tf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 内丘县	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; qiū;ja;pa;pa,ja;ud;om;tf;rg;pa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	374
 内乡县	nèi;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	457
 嫩江市	nèn;nw;nw;ni,nw;yj;vk;bh;vg;nw; jiāng;dg;dg;dg;kp;em;ku;ia;dg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
@@ -4802,7 +4806,7 @@ sort: by_weight
 宁波市	níng;bd;bd;bd;ij;jn;wa;ps;gd; bō;dp;dy;dp;kl;ee;kr;ih;dy; shì;wj;wj;wj;iy;yb;zr;ym;wj;	638
 宁城县	níng;bd;bd;bd;ij;jn;wa;ps;gd; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	392
 宁德市	níng;bd;bd;bd;ij;jn;wa;ps;gd; dé;rx;ix;xx;hn;hp;wh;tf;rx; shì;wj;wj;wj;iy;yb;zr;ym;wj;	515
-宁都县	níng;bd;bd;bd;ij;jn;wa;ps;gd; dōu;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	409
+宁都县	níng;bd;bd;bd;ij;jn;wa;ps;gd; dū;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	409
 宁国市	níng;bd;bd;bd;ij;jn;wa;ps;gd; guó;ky;ky;ky;na;wi;ri;l,lg;wy; shì;wj;wj;wj;iy;yb;zr;ym;wj;	399
 宁海县	níng;bd;bd;bd;ij;jn;wa;ps;gd; hǎi;dm;dm;dm;kh;ey;kk;it;dm; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	467
 宁河区	níng;bd;bd;bd;ij;jn;wa;ps;gd; hé;dk;dk;dk;kj;er;kz;is;dk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
@@ -4840,11 +4844,12 @@ sort: by_weight
 彭阳县	péng;tp;up;pd,up;gu;gh;he;fk;up; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	357
 彭泽县	péng;tp;up;pd,up;gu;gh;he;fk;up; zé;df;dl;df;kp;eq;ku;ic;da; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	401
 彭州市	péng;tp;up;pd,up;gu;gh;he;fk;up; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	435
-郫都区	pí;pe;pe;eb;sb;hl;ut;rt;be; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
+郫都区	pí;pe;pe;eb;sb;hl;ut;rt;be; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 皮山县	pí;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; shān;kl;lk;aa;pp;uu;vs;mm;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	363
 埤头乡	pí;tu;tu;tb;gs;gj;gn;fr;tu; tóu;dd;dd;dd;hx;yk,xk;wm;ud;dd; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 邳州市	pī;be;pe,be;ep;db;ml;ct;gi;be; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	442
 偏关县	piān;rc;rc;rb;xj;ob;ji;wy;rc; guān;bt;bt;bt,qd;fx;tk;hm;ud;et; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	322
+朴子市	piáo;mb;mb;mb;wh;dy;ey;sh;lb; zǐ;la;va;aa,vh;aa;nd;hi;bb;va; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
 平安区	píng;au;au;aa,gb;ds;mj;eh;gu;au; ān;bn;bn;bn;iy;jv;wb;pv;gn; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 平坝区	píng;au;au;aa,gb;ds;mj;eh;gu;au; bà;tb;tr;tb;gm;go;go;fm;tr; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 平昌县	píng;au;au;aa,gb;ds;mj;eh;gu;au; chāng;oo;oo;oo;vv;aa;oo;jj;oo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	452
@@ -4907,15 +4912,11 @@ sort: by_weight
 浦口区	pǔ;df;df;df;kh;eb;kn;ig;df; kǒu;la;la;aa;oo;rr;dk;kk;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	480
 普兰店	pǔ;bo;bo;ob,bo;fv;ta;ho;uo;eo; lán;bs;bs;bs,qe;fu;tm;ht;uf;es; diàn;gv;gk;gv;ro;ir;xd;yh;gk;	483
 普兰县	pǔ;bo;bo;ob,bo;fv;ta;ho;uo;eo; lán;bs;bs;bs,qe;fu;tm;ht;uf;es; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	336
-埔里镇	pǔ;tf;tf;tf;gh;gb;gn;fg;tf; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	422
 普宁市	pǔ;bo;bo;ob,bo;fv;ta;ho;uo;eo; níng;bd;bd;bd;ij;jn;wa;ps;gd; shì;wj;wj;wj;iy;yb;zr;ym;wj;	451
 莆田市	pú;cf;cf;cf;zh;tb;ln;ag;cf; tián;ku;ku;aa;ww;ww;qt;ll;wu; shì;wj;wj;wj;iy;yb;zr;ym;wj;	527
 普陀区	pǔ;bo;bo;ob,bo;fv;ta;ho;uo;eo; tuó;eb;eb;et;ba;np;tv;bp;eb; qū;kx;kx;ki;dr;sk;nb;aq;kx;	548
-埔心乡	pǔ;tf;tf;tf;gh;gb;gn;fg;tf; xīn;dd;dd;dd;nn;pp;hx;ny;dd; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
-埔盐乡	pǔ;tf;tf;tf;gh;gb;gn;fg;tf; yán;tm;tm;mb;ga;gt;ga;fh;tm; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 濮阳市	pú;df;dn;df,dp;ke;eo;ki;iw;dn; yáng;eo;eo;eo;bv;na;to;bj;eo; shì;wj;wj;wj;iy;yb;zr;ym;wj;	499
 濮阳县	pú;df;dn;df,dp;ke;eo;ki;iw;dn; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	453
-朴子市	pǔ;mb;mb;mb;wh;dy;ey;sh;lb; zǐ;la;va;aa,vh;aa;nd;hi;bb;va; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
 淇滨区	qí;db;db;dq;kf;ec;kh;ia;db; bīn;db;db;db;kf;ec;kh;ip;db; qū;kx;kx;ki;dr;sk;nb;aq;kx;	364
 蕲春县	qí;cj;cj;cj;zp;tl;lt;au;cj; chūn;io;fo;of,fo;uv;qa;ao;dw;ao; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	405
 启东市	qǐ;hk;hk;hk,kh;qo;hr,ir,xr;md;yn;hk; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; shì;wj;wj;wj;iy;yb;zr;ym;wj;	388
@@ -4962,15 +4963,17 @@ sort: by_weight
 硚口区	qiáo;ul;ul;uq;tp;ml;mp;dt;uq; kǒu;la;la;aa;oo;rr;dk;kk;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	431
 桥头区	qiáo;ml;ml;mq;wp;dl;ep;st;lq; tóu;dd;dd;dd;hx;yk,xk;wm;ud;dd; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 桥西区	qiáo;ml;ml;mq;wp;dl;ep;st;lq; xī;ak,wk;aa;aa;pp;mw;vx;sg;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	480
+茄萣区	qié;ck;ck;cj;zo;tr;ld;al;ck; dìng;cz;cr;cd;ze;to;lt;ap;cr; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 且末县	qiě;oa;la;aa;pd,pu;bm;fq;eg;aa; mò;am;an;ad,am;ee;dj;fe;gs;an; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	337
 茄子河	qié;ck;ck;cj;zo;tr;ld;al;ck; zi;la;va;aa,vh;aa;nd;hi;bb;va; hé;dk;dk;dk;kj;er;kz;is;dk;	1
 秦安县	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; ān;bn;bn;bn;iy;jv;wb;pv;gn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	388
 钦北区	qīn;jq;jr;jq;de;oo;ze;qq;jr; běi;lb;lb;ap,bj;la;lp;av;ux;ab; qū;kx;kx;ki;dr;sk;nb;aq;kx;	316
-秦都区	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	356
+秦都区	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	356
 秦淮区	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; huái;dv;df;dv;ka;eg,xg;ku;iw;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	495
 秦皇岛	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; huáng;bw;bw;bw;sa;hg;un;rg;bw; dǎo;nu;pe;nu,un;up;pu;xv;qy;ps;	675
 钦南区	qīn;jq;jr;jq;de;oo;ze;qq;jr; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu; qū;kx;kx;ki;dr;sk;nb;aq;kx;	275
 沁水县	qìn;dx;dx;dx;kn;ep;kh;in;dx; shuǐ;ln;ln;ad,uv;oo;ee;ks;ii;vn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	391
+覃塘区	qín;xu;xu;xz;ps;mj;vn;sj;xu; táng;tk;tk;tt;go;gr;gd;fy;tk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	280
 沁阳市	qìn;dx;dx;dx;kn;ep;kh;in;dx; yáng;eo;eo;eo;bv;na;to;bj;eo; shì;wj;wj;wj;iy;yb;zr;ym;wj;	437
 沁源县	qìn;dx;dx;dx;kn;ep;kh;in;dx; yuán;dx;dx;dy;ki;ef;ky;id;dx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	355
 秦州区	qín;ih;fh;hf,fh;uw;qd;ax;dw;ah; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	390
@@ -5018,7 +5021,6 @@ sort: by_weight
 琼海市	qióng;wx;wx;wj;ai;mf;ny;gy;wx; hǎi;dm;dm;dm;kh;ey;kk;it;dm; shì;wj;wj;wj;iy;yb;zr;ym;wj;	465
 琼结县	qióng;wx;wx;wj;ai;mf;ny;gy;wx; jié;sk;sk;sj;eo;vr;id;xf;sk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	234
 邛崃市	qióng;ge;ge;eg;pb;ml;ut;ab;ge; lái;ul;el;ul;pl,pf;ut;vh;mg;sl; shì;wj;wj;wj;iy;yb;zr;ym;wj;	430
-芎林乡	qiōng;cg;cg;cg;zr;tn,xn;lb;ax;cg; lín;mm;mm;mm;ww;dd;ee;ss;ll; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 琼山区	qióng;wx;wx;wj;ai;mf;ny;gy;wx; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	429
 丘北县	qiū;ja;pa;pa,ja;ud;om;tf;rg;pa; běi;lb;lb;ap,bj;la;lp;av;ux;ab; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	365
 曲阜市	qū;kc;la;aa,oa;vp,pd;tw,xw;yq;ma;aa; fù;pu;pu;pu,uk,vu;us;hj;tn;wn;pu; shì;wj;wj;wj;iy;yb;zr;ym;wj;	422
@@ -5144,7 +5146,7 @@ sort: by_weight
 上城区	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 商城县	shāng;wk;wk;wk,lk,dk;io;yr;id;um;wk; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	389
 上党区	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; dǎng;xx;xe;xx,dx,ek;hk;fu;sp;ip;ee; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
-商都县	shāng;wk;wk;wk,lk,dk;io;yr;id;um;wk; dōu;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	324
+商都县	shāng;wk;wk;wk,lk,dk;io;yr;id;um;wk; dū;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	324
 上高县	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; gāo;wk;wk;wk;io;yr;gg;ym;wk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	342
 上海市	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; hǎi;dm;dm;dm;kh;ey;kk;it;dm; shì;wj;wj;wj;iy;yb;zr;ym;wj;	781
 上杭县	shàng;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; háng;mj;mj;mk;wi;dn;eo;sy;lj; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	443
@@ -5165,6 +5167,7 @@ sort: by_weight
 商州区	shāng;wk;wk;wk,lk,dk;io;yr;id;um;wk; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	408
 邵东市	shào;de;de;ev;ib;sl,xl;pt;vk;de; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
 韶关市	sháo;lk;lk;yv;co;yr;xd;uj;lk; guān;bt;bt;bt,qd;fx;tk;hm;ud;et; shì;wj;wj;wj;iy;yb;zr;ym;wj;	515
+召陵区	shào;dk;dk;dk,kd;io;sr;pd;vk;dk; líng;ew;ew;el,ew;bj;ne;th;bf;ew; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 韶山市	sháo;lk;lk;yv;co;yr;xd;uj;lk; shān;kl;lk;aa;pp;uu;vs;mm;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	357
 邵武市	shào;de;de;ev;ib;sl,xl;pt;vk;de; wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	386
 绍兴市	shào;sk;sk;sv;eo;vr;id;xv;sk; xīng;xb;xb;ba,db;hf;fc;kh;iw;eb; shì;wj;wj;wj;iy;yb;zr;ym;wj;	557
@@ -5175,7 +5178,6 @@ sort: by_weight
 社头乡	shè;pt;pt;ut,tu;hg;ig;fg;py;pt; tóu;dd;dd;dd;hx;yk,xk;wm;ud;dd; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 射阳县	shè;uc;uc;cu,uc;uk;hi;zk;tm;uc; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	381
 神池县	shén;pu;pu;uu;hp;il;fg;py;pu; chí;dy;dy;dy;kr;ed;ke;ib;dy; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	348
-什邡市	shén;ru;ru;ru;xs;oj;jn;wf;ru; fāng;fe;fe;ef;fb;yl;lt;yb;fe; shì;wj;wj;wj;iy;yb;zr;ym;wj;	400
 神冈区	shén;pu;pu;uu;hp;il;fg;py;pu; gāng;kx;kx;ki;oy;bk;mb;mq;ax; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 伸港乡	shēn;ru;ru;ru;xp;ol;jg;wj;ru; gǎng;ds;ds;dx;kt;eu;kv;ia;dv; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 沈河区	shěn;de;dv;dg,dy;kk;eu;kp;ip;dv; hé;dk;dk;dk;kj;er;kz;is;dk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	533
@@ -5196,6 +5198,7 @@ sort: by_weight
 石城县	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	389
 施甸县	shī;fy;fy;fy;fr;yd;le;yt;fy; diān;bt;bt;gt,tg;uw;pw;nq;ql;pt; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	350
 石碇区	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; dìng;uz;ur;ud;te;mo;mt;dp;ur; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
+什邡市	shí;ru;ru;ru;xs;oj;jn;wf;ru; fāng;fe;fe;ef;fb;yl;lt;yb;fe; shì;wj;wj;wj;iy;yb;zr;ym;wj;	400
 石峰区	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; fēng;uf;ef;uf;pa;uj;va;mt;sf; qū;kx;kx;ki;dr;sk;nb;aq;kx;	324
 石冈区	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; gāng;kx;kx;ki;oy;bk;mb;mq;ax; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 石鼓区	shí;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; gǔ;tv;uy;vd,uv;gl;ge;hc;fk;uy; qū;kx;kx;ki;dr;sk;nb;aq;kx;	332
@@ -5305,7 +5308,7 @@ sort: by_weight
 绥芬河	suí;sn;sn;st;ey;vv;ib;xe;sn; fēn;cf;cd;cf;zi;th;lp;aw;cd; hé;dk;dk;dk;kj;er;kz;is;dk;	488
 绥化市	suí;sn;sn;st;ey;vv;ib;xe;sn; huà;rb;rb;rb;xa;op;jv;wx;rb; shì;wj;wj;wj;iy;yb;zr;ym;wj;	442
 绥江县	suí;sn;sn;st;ey;vv;ib;xe;sn; jiāng;dg;dg;dg;kp;em;ku;ia;dg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	264
-绥棱县	suí;sn;sn;st;ey;vv;ib;xe;sn; léng;mw;mw;ml,mw;wj;de;eh;sf;lw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	280
+绥棱县	suí;sn;sn;st;ey;vv;ib;xe;sn; líng;mw;mw;ml,mw;wj;de;eh;sf;lw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	280
 遂宁市	suì;zu;zu;zu;fq;yo;hu;ue;zd; níng;bd;bd;bd;ij;jn;wa;ps;gd; shì;wj;wj;wj;iy;yb;zr;ym;wj;	490
 睢宁县	suī;ov;of;ov;sa;bg,xg;qu;hw;ma; níng;bd;bd;bd;ij;jn;wa;ps;gd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	419
 绥宁县	suí;sn;sn;st;ey;vv;ib;xe;sn; níng;bd;bd;bd;ij;jn;wa;ps;gd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	362
@@ -5356,8 +5359,8 @@ sort: by_weight
 台州市	tāi;sk;sk;sk;po;ir;kd;ck;vk; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	541
 泰州市	tài;iu;fu;fu,uf;uo;qe;ak;dw;au; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	520
 太子河	tài;dd;dd;dd;xh;ki;mi;dy;dd; zǐ;la;va;aa,vh;aa;nd;hi;bb;va; hé;dk;dk;dk;kj;er;kz;is;dk;	350
+宕昌县	tan;bu;bu;bu;it;jr;wm;pd;gk; chāng;oo;oo;oo;vv;aa;oo;jj;oo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	356
 郯城县	tán;he;he;ey;tb;fl;ct;oo;he; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	438
-覃塘区	tán;xu;xu;xz;ps;mj;vn;sj;xu; táng;tk;tk;tt;go;gr;gd;fy;tk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	280
 潭子区	tán;du;du;dt;ks;ej;kn;is;du; zǐ;la;va;aa,vh;aa;nd;hi;bb;va; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 唐河县	táng;gk;gk;gk;ro;ir;xd;yv;gk; hé;dk;dk;dk;kj;er;kz;is;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	455
 唐山市	táng;gk;gk;gk;ro;ir;xd;yv;gk; shān;kl;lk;aa;pp;uu;vs;mm;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	582
@@ -5462,7 +5465,7 @@ sort: by_weight
 托克逊	tuō;fq;fq;fq,ft;ja;qp;ur;rt;fq; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; xùn;zx;zx;zs;aq;yf,xf;hu;bi;zx;	421
 托里县	tuō;fq;fq;fq,ft;ja;qp;ur;rt;fq; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	305
 瓦房店	wǎ;ad;ad;ad;dh;mi;rw;gn;ad; fáng;hf;hf;hf;qf;hs,is;ml;yn;hf; diàn;gv;gk;gv;ro;ir;xd;yh;gk;	506
-外埔区	wài;xb;xb;xb;fh;ny;ly;qh;xb; pǔ;tf;tf;tf;gh;gb;gn;fg;tf; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
+外埔区	wài;xb;xb;xb;fh;ny;ly;qh;xb; bù;tf;tf;tf;gh;gb;gn;fg;tf; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 万安县	wàn;av;ap;ag,ap;du;ms;fp;dn;ap; ān;bn;bn;bn;iy;jv;wb;pv;gn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	369
 万柏林	wàn;av;ap;ag,ap;du;ms;fp;dn;ap; bǎi;mb;mb;mb;ws;da;eu;sr;lb; lín;mm;mm;mm;ww;dd;ee;ss;ll;	1
 宛城区	wǎn;bv;bv;be,by;it;ju;wz;pq;gv; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	400
@@ -5484,7 +5487,7 @@ sort: by_weight
 望安乡	wàng;ww;ww;wo;ia;yg;fn;yn;ww; ān;bn;bn;bn;iy;jv;wb;pv;gn; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 旺苍县	wàng;ow;ow;ow;va;ag;on;jg;ow; cāng;cv;cv;cc;zt;tu;lz;aw;cv; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	395
 望城区	wàng;ww;ww;wo;ia;yg;fn;yn;ww; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
-望都县	wàng;ww;ww;wo;ia;yg;fn;yn;ww; dōu;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	375
+望都县	wàng;ww;ww;wo;ia;yg;fn;yn;ww; dū;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	375
 望花区	wàng;ww;ww;wo;ia;yg;fn;yn;ww; huā;cb;cb;ch;za;tp;lv;aw;cb; qū;kx;kx;ki;dr;sk;nb;aq;kx;	302
 望江县	wàng;ww;ww;wo;ia;yg;fn;yn;ww; jiāng;dg;dg;dg;kp;em;ku;ia;dg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	365
 望奎县	wàng;ww;ww;wo;ia;yg;fn;yn;ww; kuí;dt;dt;dg;xg;kg;mg;df;dt; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	405
@@ -5496,7 +5499,7 @@ sort: by_weight
 渭城区	wèi;do;do;dw;kl;eb;kv;il;do; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	372
 潍城区	wéi;dv;df;dw;ka;eg;ku;ix;dw; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	329
 卫东区	wèi;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; qū;kx;kx;ki;dr;sk;nb;aq;kx;	283
-魏都区	wèi;hg;hg;gw;us;hi;xa;tv;hv; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	347
+魏都区	wèi;hg;hg;gw;us;hi;xa;tv;hv; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	347
 潍坊市	wéi;dv;df;dw;ka;eg;ku;ix;dw; fāng;tf;tf;tf;gf;gs;gl;fy;tf; shì;wj;wj;wj;iy;yb;zr;ym;wj;	550
 威海市	wēi;wn;xn,ad,wn;gn,ng,wn;rh;iv;nb;dg;ng; hǎi;dm;dm;dm;kh;ey;kk;it;dm; shì;wj;wj;wj;iy;yb;zr;ym;wj;	523
 卫辉市	wèi;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; huī;gi;xi;gj;ht;fq;my;iq;ei; shì;wj;wj;wj;iy;yb;zr;ym;wj;	416
@@ -5527,7 +5530,6 @@ sort: by_weight
 瓮安县	wèng;gw;bw;wg;fh;cn;hr;wc;bw; ān;bn;bn;bn;iy;jv;wb;pv;gn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	363
 翁源县	wēng;gx;bx;yg;fd;cm;hz;wc;bx; yuán;dx;dx;dy;ki;ef;ky;id;dx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	442
 卧龙区	wò;ib;ib;bi,ib;dh;sy;qy;ah;kb; lóng;yp;ud;ad;sh;ip;tl;dx;ab; qū;kx;kx;ki;dr;sk;nb;aq;kx;	423
-涡阳县	wō;dn;dn;dg,dn;ke;eb;kj;ik;dn; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	412
 武安市	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; ān;bn;bn;bn;iy;jv;wb;pv;gn; shì;wj;wj;wj;iy;yb;zr;ym;wj;	432
 吴堡县	wú;kt;kt;kt;ox;rk;dm;kg;kt; bǔ;rt;rt;tb;xg;og;jg;wk;rt; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	340
 武昌区	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; chāng;oo;oo;oo;vv;aa;oo;jj;oo; qū;kx;kx;ki;dr;sk;nb;aq;kx;	513
@@ -5541,7 +5543,7 @@ sort: by_weight
 乌当区	wū;pa;pa;pa;ud;pm;xu;qn;pa; dāng;xe;xe;xx;hs;fm;yb;iv;ea; qū;kx;kx;ki;dr;sk;nb;aq;kx;	430
 无棣县	wú;ay;ay;ag,ay,ee;uk;mu;du;fq;av; dì;ml;mn;ml;wo;de;ek;sv;ll; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	365
 武定县	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; dìng;bz;br;bp;ie;jo;wt;pg;gr; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	353
-武都区	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
+武都区	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 乌尔禾	wū;pa;pa;pa;ud;pm;xu;qn;pa; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; hé;pm;pm,qn;pd,pm;uw;hd;xh;tt;qn;	393
 雾峰区	wù;yl;yl;yw;yu;ms;ts;ft;yl; fēng;uf;ef;uf;pa;uj;va;mt;sf; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 五峰乡	wǔ;aw;aa;aa;gg;mm;wu;gg;aa; fēng;uf;ef;uf;pa;uj;va;mt;sf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
@@ -5582,8 +5584,8 @@ sort: by_weight
 巫山县	wū;gr;gr;gc,gr;pe;mo;uj;aw;aa; shān;kl;lk;aa;pp;uu;vs;mm;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	468
 武山县	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; shān;kl;lk;aa;pp;uu;vs;mm;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	378
 乌审旗	wū;pa;pa;pa;ud;pm;xu;qn;pa; shěn;bu;bu;bu;ip;jl;wg;pj;gu; qí;fb;fb;fq;ff;yc;lh;yt;fb;	389
-乌什县	wū;pa;pa;pa;ud;pm;xu;qn;pa; shén;ru;ru;ru;xs;oj;jn;wf;ru; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	376
 武胜县	wǔ;yv;av;vy,yv;dr;mm;fs;ga;vg; shèng;ou;ou;ou;la;bm;vl;et;ou; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	413
+乌什县	wū;pa;pa;pa;ud;pm;xu;qn;pa; shí;ru;ru;ru;xs;oj;jn;wf;ru; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	376
 乌苏市	wū;pa;pa;pa;ud;pm;xu;qn;pa; sū;cb;cb;cb;zf;tc;lh;al;cb; shì;wj;wj;wj;iy;yb;zr;ym;wj;	393
 五台县	wǔ;aw;aa;aa;gg;mm;wu;gg;aa; tái;sk;sk;sk;po;ir;kd;ck;vk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	419
 雾台乡	wù;yl;yl;yw;yu;ms;ts;ft;yl; tái;sk;sk;sk;po;ir;kd;ck;vk; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
@@ -5681,7 +5683,7 @@ sort: by_weight
 襄城县	xiāng;yf;wy;wy,ya;ih;yv;tf;yk;wh; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	407
 乡城县	xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	335
 湘东区	xiāng;do;do;dx;ks;eu;kq;is;dm; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; qū;kx;kx;ki;dr;sk;nb;aq;kx;	320
-襄都区	xiāng;yf;wy;wy,ya;ih;yv;tf;yk;wh; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
+襄都区	xiāng;yf;wy;wy,ya;ih;yv;tf;yk;wh; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 香坊区	xiāng;ho;ho;ho;uv;ha;xo;tj;ho; fāng;tf;tf;tf;gf;gs;gl;fy;tf; qū;kx;kx;ki;dr;sk;nb;aq;kx;	479
 襄汾县	xiāng;yf;wy;wy,ya;ih;yv;tf;yk;wh; fén;df;dd;df;ki;eh;kp;iw;dd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	411
 祥符区	xiáng;py;py;uy;hp;iq;fg;py;py; fú;vc;vc;vf;nw,nk;hi;rk;tw;vc; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
@@ -5719,14 +5721,15 @@ sort: by_weight
 新安县	xīn;lj;lj;jq;bp;yl;it;us;lj; ān;bn;bn;bn;iy;jv;wb;pv;gn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	473
 新北区	xīn;lj;lj;jq;bp;yl;it;us;lj; běi;lb;lb;ap,bj;la;lp;av;ux;ab; qū;kx;kx;ki;dr;sk;nb;aq;kx;	440
 新北市	xīn;lj;lj;jq;bp;yl;it;us;lj; běi;lb;lb;ap,bj;la;lp;av;ux;ab; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
+新埔镇	xīn;lj;lj;jq;bp;yl;it;us;lj; bù;tf;tf;tf;gh;gb;gn;fg;tf; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	1
 新蔡县	xīn;lj;lj;jq;bp;yl;it;us;lj; cài;cu;cx;cj;zi;tf;lf;aw;cx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	366
 新昌县	xīn;lj;lj;jq;bp;yl;it;us;lj; chāng;oo;oo;oo;vv;aa;oo;jj;oo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	427
 新城区	xīn;lj;lj;jq;bp;yl;it;us;lj; chéng;ti;ti;ti;gh;gs;ga;fd;tg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	586
 忻城县	xīn;xj;xj;xj;np;pl;ht;nr;xj; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	361
 新城乡	xīn;lj;lj;jq;bp;yl;it;us;lj; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 新店区	xīn;lj;lj;jq;bp;yl;it;us;lj; diàn;gv;gk;gv;ro;ir;xd;yh;gk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
-新都区	xīn;lj;lj;jq;bp;yl;it;us;lj; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	447
-信都区	xìn;rk;rk;ry;xc;or;js;wy;rk; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
+新都区	xīn;lj;lj;jq;bp;yl;it;us;lj; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	447
+信都区	xìn;rk;rk;ry;xc;or;js;wy;rk; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 信丰县	xìn;rk;rk;ry;xc;or;js;wy;rk; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	379
 新丰县	xīn;lj;lj;jq;bp;yl;it;us;lj; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	367
 新丰乡	xīn;lj;lj;jq;bp;yl;it;us;lj; fēng;sl,af,al;al;aa;aa;qj;af;dh;aa; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
@@ -5751,7 +5754,6 @@ sort: by_weight
 新民市	xīn;lj;lj;jq;bp;yl;it;us;lj; mín;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; shì;wj;wj;wj;iy;yb;zr;ym;wj;	406
 新宁县	xīn;lj;lj;jq;bp;yl;it;us;lj; níng;bd;bd;bd;ij;jn;wa;ps;gd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	404
 新埤乡	xīn;lj;lj;jq;bp;yl;it;us;lj; pí;tu;tu;tb;gs;gj;gn;fr;tu; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
-新埔镇	xīn;lj;lj;jq;bp;yl;it;us;lj; pǔ;tf;tf;tf;gh;gb;gn;fg;tf; zhèn;jb;jb;jv;df;oc;zh;qf;jb;	1
 新邱区	xīn;lj;lj;jq;bp;yl;it;us;lj; qiū;qe;qe;eq;ub;ol;tt;rg;qe; qū;kx;kx;ki;dr;sk;nb;aq;kx;	184
 新荣区	xīn;lj;lj;jq;bp;yl;it;us;lj; róng;cm;cm;cm,mb;zw;td,xd;le;ap;cl; qū;kx;kx;ki;dr;sk;nb;aq;kx;	307
 新邵县	xīn;lj;lj;jq;bp;yl;it;us;lj; shào;de;de;ev;ib;sl,xl;pt;vk;de; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	384
@@ -5808,6 +5810,7 @@ sort: by_weight
 荥阳市	xíng;cu;cu;cu,ub;zo;te;lk;ap;cu; yáng;eo;eo;eo;bv;na;to;bj;eo; shì;wj;wj;wj;iy;yb;zr;ym;wj;	449
 兴业县	xīng;xb;xb;ba,db;hf;fc;kh;iw;eb; yè;la;la;aa;pd;tc,xc;cy;og;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	329
 兴义市	xīng;xb;xb;ba,db;hf;fc;kh;iw;eb; yì;dx;dx;di,id;hy,yh;ik,xk;ib;yq;dx; shì;wj;wj;wj;iy;yb;zr;ym;wj;	447
+芎林乡	xiōng;cg;cg;cg;zr;tn,xn;lb;ax;cg; lín;mm;mm;mm;ww;dd;ee;ss;ll; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 秀峰区	xiù;hn;hn;hn;uu;hs;xv;te;hn; fēng;uf;ef;uf;pa;uj;va;mt;sf; qū;kx;kx;ki;dr;sk;nb;aq;kx;	304
 秀林乡	xiù;hn;hn;hn;uu;hs;xv;te;hn; lín;mm;mm;mm;ww;dd;ee;ss;ll; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 休宁县	xiū;rm;rm;rm;xw;od;je;ws;rl; níng;bd;bd;bd;ij;jn;wa;ps;gd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	437
@@ -5848,6 +5851,7 @@ sort: by_weight
 崖州区	yá;ut;et;uy;pg;ug;vg;md;st; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 延安市	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; ān;bn;bn;bn;iy;jv;wb;pv;gn; shì;wj;wj;wj;iy;yb;zr;ym;wj;	498
 盐边县	yán;tm;tm;mb;ga;gt;ga;fh;tm; biān;zl;zl;zl;uq;ys;su;lp;zl; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	380
+盐埔乡	yán;tm;tm;mb;ga;gt;ga;fh;tm; bù;tf;tf;tf;gh;gb;gn;fg;tf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 延长县	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; cháng;pn;pn;pd;uh;po;pc;ta;pn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	330
 燕巢区	yàn;ch;nh,ah;ch,hb;vn;tf;lc;au;ce; cháo;vg;vg;ig;;vd;oe;vj;vg; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 盐埕区	yán;tm;tm;mb;ga;gt;ga;fh;tm; chéng;tw;tw;ti;ga;gg;gn;fk;tw; qū;kx;kx;ki;dr;sk;nb;aq;kx;	387
@@ -5867,7 +5871,6 @@ sort: by_weight
 炎陵县	yán;hh;hh;hh;tt;ff;cc;oo;hh; líng;ew;ew;el,ew;bj;ne;th;bf;ew; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	376
 延平区	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; píng;au;au;aa,gb;ds;mj;eh;gu;au; qū;kx;kx;ki;dr;sk;nb;aq;kx;	414
 延平乡	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; píng;au;au;aa,gb;ds;mj;eh;gu;au; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
-盐埔乡	yán;tm;tm;mb;ga;gt;ga;fh;tm; pǔ;tf;tf;tf;gh;gb;gn;fg;tf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 延庆区	yán;zv;zv;zv;uq;nm,nv;tu;th;zv; qìng;gd;gd;gd;rx;ik,xk;xm;yd;gd; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 雁山区	yàn;iv;if;iv;ra;mg;xu;dw;ia; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	277
 铅山县	yán;jk;jk;jk;do;or;zd;qm;jk; shān;kl;lk;aa;pp;uu;vs;mm;aa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	389
@@ -5904,7 +5907,7 @@ sort: by_weight
 扬中市	yáng;fp;fp;fy;ju;qh;ue;rn;fp; zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	332
 扬州市	yáng;fp;fp;fy;ju;qh;ue;rn;fp; zhōu;dl;dl;id,da;hp;il;oo;yt;da; shì;wj;wj;wj;iy;yb;zr;ym;wj;	558
 姚安县	yáo;nv;nd;nv;yh;vo;bw;vi;nv; ān;bn;bn;bn;iy;jv;wb;pv;gn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	368
-尧都区	yáo;yw;aw;gw,wg;ak;ju;pp;at;ge; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	396
+尧都区	yáo;yw;aw;gw,wg;ak;ju;pp;at;ge; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	396
 瑶海区	yáo;wf;wf;wf;ap;mu,xo;na;ge;wf; hǎi;dm;dm;dm;kh;ey;kk;it;dm; qū;kx;kx;ki;dr;sk;nb;aq;kx;	496
 耀州区	yào;gv;xf;gd,gv;ha;fg;mu;iq;ea; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	426
 叶城县	yè;ku;ku;ku;os;rj;dn;kf;ku; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	384
@@ -5954,7 +5957,7 @@ sort: by_weight
 伊州区	yī;ry,rp;ry;ry;xu;ok;jt;wv;ry; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 义竹乡	yì;dx;dx;di,id;hy,yh;ik,xk;ib;yq;dx; zhú;gg;pl,gg;gg;nn;hh;ru;tt;pd; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 银川市	yín;jg;jg;jg;dh;ov;zi;qv;jh; chuān;pl;pl;pa;up;ll;oc;kt;pa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	559
-殷都区	yīn;pu;py;pu,uu;ul;he;zr;rv;py; dōu;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	272
+殷都区	yīn;pu;py;pu,uu;ul;he;zr;rv;py; dū;le;le;ev;gb;jl;qt;ft;ue; qū;kx;kx;ki;dr;sk;nb;aq;kx;	272
 银海区	yín;jg;jg;jg;dh;ov;zi;qv;jh; hǎi;dm;dm;dm;kh;ey;kk;it;dm; qū;kx;kx;ki;dr;sk;nb;aq;kx;	345
 印台区	yìn;pe;pe;ey,pe;ub;hl;bz;qg;pe; tái;sk;sk;sk;po;ir;kd;ck;vk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	362
 鄞州区	yín;ce;ne;ej;vb;tl,xl;lt;ak;ce; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	512
@@ -6024,7 +6027,7 @@ sort: by_weight
 虞城县	yú;ht;ht;hw;px;yk;zm;ha;at; chéng;ti;ti;ti;gh;gs;ga;fd;tg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	407
 鱼池乡	yú;da;da;da;qq;nm;wv;qg;ea; chí;dy;dy;dy;kr;ed;ke;ib;dy; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 榆次区	yú;md;md;my;wi;dn;ep;sw;ld; cì;dq;dr;dq;fe;io,mo;we;uq;dr; qū;kx;kx;ki;dr;sk;nb;aq;kx;	397
-于都县	yú;au;al;aa;ss;md;fn;gf;av; dōu;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	412
+于都县	yú;au;al;aa;ss;md;fn;gf;av; dū;le;le;ev;gb;jl;qt;ft;ue; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	412
 鱼峰区	yú;da;da;da;qq;nm;wv;qg;ea; fēng;uf;ef;uf;pa;uj;va;mt;sf; qū;kx;kx;ki;dr;sk;nb;aq;kx;	330
 余干县	yú;rm;rh;rb,rd,rh;ef;od;jx;wt;rx; gàn;au;au;aa;ss;mj;eg;fg;au; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	425
 余杭区	yú;rm;rh;rb,rd,rh;ef;od;jx;wt;rx; háng;mj;mj;mk;wi;dn;eo;sy;lj; qū;kx;kx;ki;dr;sk;nb;aq;kx;	527
@@ -6102,7 +6105,6 @@ sort: by_weight
 云冈区	yún;ag,es;es;es,se;up;mi;by;fc;ev; gāng;kx;kx;ki;oy;bk;mb;mq;ax; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 运河区	yùn;zy;zs;zy;uq;yi;bu;fc;zv; hé;dk;dk;dk;kj;er;kz;is;dk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	371
 云和县	yún;ag,es;es;es,se;up;mi;by;fc;ev; hé;hk;hk;hk;uo;hr;xd;t,tk;hk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	361
-筠连县	yún;vy;vd;vj;nf;hm;rw;tf;vd; lián;zi;zi;zi;tq;yq;yu;lp;zi; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	384
 云林县	yún;ag,es;es;es,se;up;mi;by;fc;ev; lín;mm;mm;mm;ww;dd;ee;ss;ll; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	593
 云龙区	yún;ag,es;es;es,se;up;mi;by;fc;ev; lóng;yp;ud;ad;sh;ip;tl;dx;ab; qū;kx;kx;ki;dr;sk;nb;aq;kx;	357
 云龙县	yún;ag,es;es;es,se;up;mi;by;fc;ev; lóng;yp;ud;ad;sh;ip;tl;dx;ab; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	368
@@ -6115,7 +6117,7 @@ sort: by_weight
 郧阳区	yún;ke;ke;ey;ob;rl;dt;km;ke; yáng;eo;eo;eo;bv;na;to;bj;eo; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 云阳县	yún;ag,es;es;es,se;up;mi;by;fc;ev; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	435
 云州区	yún;ag,es;es;es,se;up;mi;by;fc;ev; zhōu;dl;dl;id,da;hp;il;oo;yt;da; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
-杂多县	zá;jm;jm;jm,mj;uf;kd;ke;vs;jx; duō;xx;xx;xx;ff;ni;ll;qq;xx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	472
+杂多县	zá;jm;jm;jm,mj;uf;kd;ke;vs;jx; duǒ;xx;xx;xx;ff;ni;ll;qq;xx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	472
 赞皇县	zàn;nb;nr;bx;bm;ho;qo;tf;xr; huáng;bw;bw;bw;sa;hg;un;rg;bw; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	401
 枣强县	zǎo;ud;ad;cd;dh;dy;ew;gm;ad; qiáng;gi;gi;gs;rf;ni;bc;xk;gi; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	363
 造桥乡	zào;zk;zk;zg;bq;yr;qu;tf;zk; qiáo;ml;ml;mq;wp;dl;ep;st;lq; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
@@ -6141,7 +6143,7 @@ sort: by_weight
 彰化县	zhāng;lp;lp;pv;cu;yh;xe;uj;lp; huà;rb;rb;rb;xa;op;jv;wx;rb; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	606
 张家川	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; chuān;pl;pl;pa;up;ll;oc;kt;pa;	400
 张家港	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; gǎng;ds;ds;dx;kt;eu;kv;ia;dv;	583
-张家界	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; jiè;tj;tl;tj;wp;wl;qp;lw;tj;	696
+张家界	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; jie;tj;tl;tj;wp;wl;qp;lw;tj;	696
 张家口	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; kǒu;la;la;aa;oo;rr;dk;kk;aa;	662
 漳平市	zhāng;du;du;dv;ks;ej;kn;iu;du; píng;au;au;aa,gb;ds;mj;eh;gu;au; shì;wj;wj;wj;iy;yb;zr;ym;wj;	392
 漳浦县	zhāng;du;du;dv;ks;ej;kn;iu;du; pǔ;df;df;df;kh;eb;kn;ig;df; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	468
@@ -6156,14 +6158,12 @@ sort: by_weight
 肇东市	zhào;hy;hy;hy,yw;qp;hq,iq;mb;yn;ha; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; shì;wj;wj;wj;iy;yb;zr;ym;wj;	366
 昭化区	zhāo;ok;ok;ov;vo;ar;od;jv;ok; huà;rb;rb;rb;xa;op;jv;wx;rb; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 昭觉县	zhāo;ok;ok;ov;vo;ar;od;jv;ok; jué;xj;xe;dj,jb;hk;fu;ke;ip;ej; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	370
-召陵区	zhào;dk;dk;dk,kd;io;sr;pd;vk;dk; líng;ew;ew;el,ew;bj;ne;th;bf;ew; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 昭平县	zhāo;ok;ok;ov;vo;ar;od;jv;ok; píng;au;au;aa,gb;ds;mj;eh;gu;au; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	353
 肇庆市	zhào;hy;hy;hy,yw;qp;hq,iq;mb;yn;ha; qìng;gd;gd;gd;rx;ik,xk;xm;yd;gd; shì;wj;wj;wj;iy;yb;zr;ym;wj;	514
 昭苏县	zhāo;ok;ok;ov;vo;ar;od;jv;ok; sū;cb;cb;cb;zf;tc;lh;al;cb; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	353
 昭通市	zhāo;ok;ok;ov;vo;ar;od;jv;ok; tōng;zy;zy;zy;pq;yb;ku;ce;zy; shì;wj;wj;wj;iy;yb;zr;ym;wj;	495
 昭阳区	zhāo;ok;ok;ov;vo;ar;od;jv;ok; yáng;eo;eo;eo;bv;na;to;bj;eo; qū;kx;kx;ki;dr;sk;nb;aq;kx;	364
 朝阳市	zhāo;uo;uo;ou,uo;sl;jb;nv;fj;uo; yáng;eo;eo;eo;bv;na;to;bj;eo; shì;wj;wj;wj;iy;yb;zr;ym;wj;	466
-朝阳县	zhāo;uo;uo;ou,uo;sl;jb;nv;fj;uo; yáng;eo;eo;eo;bv;na;to;bj;eo; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	383
 招远市	zhāo;fk;fk;fv;jo;qr;ud;rv;fk; yuǎn;zy;ze;zy;uq;yu;mu;fq;ze; shì;wj;wj;wj;iy;yb;zr;ym;wj;	378
 肇源县	zhào;hy;hy;hy,yw;qp;hq,iq;mb;yn;ha; yuán;dx;dx;dy;ki;ef;ky;id;dx; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	346
 肇州县	zhào;hy;hy;hy,yw;qp;hq,iq;mb;yn;ha; zhōu;dl;dl;id,da;hp;il;oo;yt;da; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	319
@@ -6199,6 +6199,7 @@ sort: by_weight
 枝江市	zhī;mv;my;mv;wl;de;ec;sf;ly; jiāng;dg;dg;dg;kp;em;ku;ia;dg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	365
 织金县	zhī;sv;sb;sv;ef;vc;ih;xk;sb; jīn;rb;ra;ra,pa;ed;cc;zj;qq;ra; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	402
 仲巴县	zhòng;rv;rv;rv;xp;ol;jg;wk;rv; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	303
+中埔乡	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; bù;tf;tf;tf;gh;gb;gn;fg;tf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 中方县	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; fāng;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	325
 中和区	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; hé;hk;hk;hk;uo;hr;xd;t,tk;hk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 中江县	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; jiāng;dg;dg;dg;kp;em;ku;ia;dg; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	395
@@ -6207,7 +6208,6 @@ sort: by_weight
 钟楼区	zhōng;jv;jv;jv;dp;ol;zg;qk;jv; lóu;mn;mn;ml;wy;dv;eb;so;ln; qū;kx;kx;ki;dr;sk;nb;aq;kx;	358
 中牟县	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; mù;sn;sn;sn;pb;iq;kq;cr;vn; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	445
 中宁县	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; níng;bd;bd;bd;ij;jn;wa;ps;gd; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	395
-中埔乡	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; pǔ;tf;tf;tf;gh;gb;gn;fg;tf; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
 钟山区	zhōng;jv;jv;jv;dp;ol;zg;qk;jv; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	373
 中山区	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 中山市	zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; shān;kl;lk;aa;pp;uu;vs;mm;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	598
@@ -6288,7 +6288,7 @@ sort: by_weight
 阿勒泰市	ā;ek;ek;ek;bj;nr;tz;bs;ek; lè;gl;gl;lg,gl;vu;ts;ts;af;cl; tài;iu;fu;fu,uf;uo;qe;ak;dw;au; shì;wj;wj;wj;iy;yb;zr;ym;wj;	399
 阿里地区	ā;ek;ek;ek;bj;nr;tz;bs;ek; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa; dì;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; qū;kx;kx;ki;dr;sk;nb;aq;kx;	451
 阿里山乡	ā;ek;ek;ek;bj;nr;tz;bs;ek; lǐ;tt;la;aa,tt;vg;wg;dl;jf;aa; shān;kl;lk;aa;pp;uu;vs;mm;aa; xiāng;vp;vp;ap,vp;ru;vh;ix;xt;vp;	1
-阿图什市	ā;ek;ek;ek;bj;nr;tz;bs;ek; tú;kd;kd;kd;nh;wy;rw;lt;wd; shén;ru;ru;ru;xs;oj;jn;wf;ru; shì;wj;wj;wj;iy;yb;zr;ym;wj;	344
+阿图什市	ā;ek;ek;ek;bj;nr;tz;bs;ek; tú;kd;kd;kd;nh;wy;rw;lt;wd; shí;ru;ru;ru;xs;oj;jn;wf;ru; shì;wj;wj;wj;iy;yb;zr;ym;wj;	344
 阿瓦提县	ā;ek;ek;ek;bj;nr;tz;bs;ek; wǎ;ad;ad;ad;dh;mi;rw;gn;ad; tí;fz;fr;fu;je;qo;ut;rj;fr; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	347
 昂昂溪区	áng;oe;oe;oe;vb;al;oz;jq;oe; áng;oe;oe;oe;vb;al;oz;jq;oe; xī;dd;dd;dx;kx;ek;km;ie;dd; qū;kx;kx;ki;dr;sk;nb;aq;kx;	253
 八公山区	bā;pn;pn;pd;ff;ho;hb;wt;pn; gōng;bs;bs;sb,bs;fp;ci;hk;wc;bv; shān;kl;lk;aa;pp;uu;vs;mm;aa; qū;kx;kx;ki;dr;sk;nb;aq;kx;	223
@@ -6349,7 +6349,7 @@ sort: by_weight
 黑龙江省	hēi;lh;lh;ad,ha;nn;wf;ph;lf;ae; lóng;yp;ud;ad;sh;ip;tl;dx;ab; jiāng;dg;dg;dg;kp;em;ku;ia;dg; shěng;uo;uo;ou;is;fu;yq;it;um;	680
 红谷滩区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; gǔ;bk;bk;bk,kr;fo;cr;hg;ww;bk; tān;dv;df;dn;ka;eg;ku;ic;dn; qū;kx;kx;ki;dr;sk;nb;aq;kx;	299
 红花岗区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; huā;cb;cb;ch;za;tp;lv;aw;cb; gǎng;ux;ex;ug;py;uk;vb;mm;sx; qū;kx;kx;ki;dr;sk;nb;aq;kx;	395
-红寺堡区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; sì;tc;tc;ct,tc;gk;gi;gk;ff;tc; bǎo;rt;rt;tb;xg;og;jg;wk;rt; qū;kx;kx;ki;dr;sk;nb;aq;kx;	309
+红寺堡区	hóng;sg;sg;sg;ep;vm;iu;xa;sg; sì;tc;tc;ct,tc;gk;gi;gk;ff;tc; bǔ;rt;rt;tb;xg;og;jg;wk;rt; qū;kx;kx;ki;dr;sk;nb;aq;kx;	309
 呼和浩特	hū;kh;kh;kh;op;rd;dn;kt;kh; hé;hk;hk;hk;uo;hr;xd;t,tk;hk; hào;dk;dk;dg;ko;er;kd;it;dk; tè;nc;nc;ns;bk;hi;qk;tr;nc;	645
 葫芦岛市	hú;co;co;ch;zl;tb;lv;ad;co; lú;ch;ch;ch;zq;ts;lm;ay;ch; dǎo;nu;pe;nu,un;up;pu;xv;qy;ps; shì;wj;wj;wj;iy;yb;zr;ym;wj;	455
 呼伦贝尔	hū;kh;kh;kh;op;rd;dn;kt;kh; lún;rl;rb;rl;;op;jj;ww;rb; bèi;kr;kr;ad,kr;mm;bo;ob;mh;ar; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex;	580
@@ -6372,14 +6372,14 @@ sort: by_weight
 九寨沟县	jiǔ;pv;pv;py;ur;kn;kj;vt;pv; zhài;bm;bm;mb,bm;if;jd;we;pf;gx; gōu;dg;ds;dg;kp;ei;kk;iq;dv; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	469
 喀喇沁旗	kā;kk;kk;kk;oo;rr;ds;kp;kk; lǎ;kd;kd;kd,kl;oi;rn;dp;kg;kd; qìn;dx;dx;dx;kn;ep;kh;in;dx; qí;fb;fb;fq;ff;yc;lh;yt;fb;	368
 喀什地区	kā;kk;kk;kk;oo;rr;ds;kp;kk; shí;ru;ru;ru;xs;oj;jn;wf;ru; dì;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; qū;kx;kx;ki;dr;sk;nb;aq;kx;	473
-康巴什区	kāng;gl;gn;gl;ro;ie;xk;yv;gl; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; shén;ru;ru;ru;xs;oj;jn;wf;ru; qū;kx;kx;ki;dr;sk;nb;aq;kx;	220
+康巴什区	kāng;gl;gn;gl;ro;ie;xk;yv;gl; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; shí;ru;ru;ru;xs;oj;jn;wf;ru; qū;kx;kx;ki;dr;sk;nb;aq;kx;	220
 科尔沁区	kē;hd;hu;hd;us;hj;xj;tu;hu; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; qìn;dx;dx;dx;kn;ep;kh;in;dx; qū;kx;kx;ki;dr;sk;nb;aq;kx;	367
-可克达拉	kě;dk;dk;dk;jj;mr;zk;sk;av; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; lā;fl;fl;fl;jb;qt;ui;ru;fl;	382
+可克达拉	kě;dk;dk;dk;jj;mr;zk;sk;av; kě;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; lā;fl;fl;fl;jb;qt;ui;ru;fl;	382
 克拉玛依	kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; lā;fl;fl;fl;jb;qt;ui;ru;fl; mǎ;wm;wm;wm;az;mm;nn;gc;wm; yī;ry;ry;ry;xk;ov;jt;wy;rh;	531
 克孜勒苏	kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; zī;zw;zw;wz,zw;aj;nk;hh;bt;zw; lè;gl;gl;lg,gl;vu;ts;ts;af;cl; sū;cb;cb;cb;zf;tc;lh;al;cb;	305
 库尔勒市	kù;gi;gi;gi;rt;iq;xy;yl;gi; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; lè;gl;gl;lg,gl;vu;ts;ts;af;cl; shì;wj;wj;wj;iy;yb;zr;ym;wj;	433
-昆都仑区	kūn;ob;ob;ob;va;ap;ov;jx;ob; dōu;le;le;ev;gb;jl;qt;ft;ue; lún;rb;rb;rb;ea,xa;op,xp;jl;wx;rb; qū;kx;kx;ki;dr;sk;nb;aq;kx;	354
-浪卡子县	làng;dl;dl;dl;kh;ev;ki;iy;dh; qiǎ;ub;ub;bx,ub;ph;yy;yy;hh;ub; zi;la;va;aa,vh;aa;nd;hi;bb;va; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	310
+昆都仑区	kūn;ob;ob;ob;va;ap;ov;jx;ob; dū;le;le;ev;gb;jl;qt;ft;ue; lún;rb;rb;rb;ea,xa;op,xp;jl;wx;rb; qū;kx;kx;ki;dr;sk;nb;aq;kx;	354
+浪卡子县	làng;dl;dl;dl;kh;ev;ki;iy;dh; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; zi;la;va;aa,vh;aa;nd;hi;bb;va; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	310
 老河口市	lǎo;lb;lb;bl,lb;ga;jp;ql;ft;ub; hé;dk;dk;dk;kj;er;kz;is;dk; kǒu;la;la;aa;oo;rr;dk;kk;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	382
 类乌齐县	lèi;md;md;md;lx;fk;pm;od;md; wū;pa;pa;pa;ud;pm;xu;qn;pa; qí;wl;wl;wa,wp;jp;yl;qq;yj;wa; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	246
 冷水江市	lěng;ds;ds;dl;fp;ii;wk;uw;dv; shuǐ;ln;ln;ad,uv;oo;ee;ks;ii;vn; jiāng;dg;dg;dg;kp;em;ku;ia;dg; shì;wj;wj;wj;iy;yb;zr;ym;wj;	378
@@ -6498,7 +6498,7 @@ sort: by_weight
 扎兰屯市	zhā;fv;fv;fg;jr;qu,xu;ua;rn;fv; lán;bs;bs;bs,qe;fu;tm;ht;uf;es; tún;av;av;ag;dr;pu;fs;gb;av; shì;wj;wj;wj;iy;yb;zr;ym;wj;	383
 扎鲁特旗	zhā;fv;fv;fg;jr;qu,xu;ua;rn;fv; lǔ;yo;ao;yo;qv;na;wo;qg;eo; tè;nc;nc;ns;bk;hi;qk;tr;nc; qí;fb;fb;fq;ff;yc;lh;yt;fb;	378
 张家港市	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; gǎng;ds;ds;dx;kt;eu;kv;ia;dv; shì;wj;wj;wj;iy;yb;zr;ym;wj;	482
-张家界市	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; jiè;tj;tl;tj;wp;wl;qp;lw;tj; shì;wj;wj;wj;iy;yb;zr;ym;wj;	521
+张家界市	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; jie;tj;tl;tj;wp;wl;qp;lw;tj; shì;wj;wj;wj;iy;yb;zr;ym;wj;	521
 张家口市	zhāng;gi;gi;gi;rh;no;bp;xt;gi; jiā;bu;bu;bu;ih;jo;wj;pe;gn; kǒu;la;la;aa;oo;rr;dk;kk;aa; shì;wj;wj;wj;iy;yb;zr;ym;wj;	541
 正镶白旗	zhèng;av;av;av;dr;mm;fs;gh;av; xiāng;jf;jy;jx,jy;dh;ov;zf;qy;jh; bái;po;po;pa,po;ss;ha;ub;rr;po; qí;fb;fb;fq;ff;yc;lh;yt;fb;	366
 驻马店市	zhù;mv;mv;mv;za,zg;ng;nn;cy;mv; mǎ;va;va;aa,vh;zz;nm;nm;cn;va; diàn;gv;gk;gv;ro;ir;xd;yh;gk; shì;wj;wj;wj;iy;yb;zr;ym;wj;	528
@@ -6529,7 +6529,7 @@ sort: by_weight
 吉木萨尔县	jí;tk;uk;ku,uk;go;gr;gd;fk;uk; mù;ur;un,an;ad;ww;dd;em;ss;un; sà;ci;ci;ci;zu;th;lx;ab;ci; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	383
 加格达奇区	jiā;lk;lk;lk,kl;uo;kr;sd;lk;lk; gé;mk;mk;mg;wo;dr;es;st;lk; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; qí;dk;dk;dk;xj;kr;mz;ds;dk; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 喀喇沁左翼	kā;kk;kk;kk;oo;rr;ds;kp;kk; lǎ;kd;kd;kd,kl;oi;rn;dp;kg;kd; qìn;dx;dx;dx;kn;ep;kh;in;dx; zuǒ;ug;ug;gu,ug;sp;km;nu;da;ag; yì;xg;xb;yg,yy;df;sc;zh;nl;xb;	232
-可克达拉市	kě;dk;dk;dk;jj;mr;zk;sk;av; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; lā;fl;fl;fl;jb;qt;ui;ru;fl; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
+可克达拉市	kě;dk;dk;dk;jj;mr;zk;sk;av; kě;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; lā;fl;fl;fl;jb;qt;ui;ru;fl; shì;wj;wj;wj;iy;yb;zr;ym;wj;	1
 克拉玛依区	kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; lā;fl;fl;fl;jb;qt;ui;ru;fl; mǎ;wm;wm;wm;az;mm;nn;gc;wm; yī;ry;ry;ry;xk;ov;jt;wy;rh; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 克拉玛依市	kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; lā;fl;fl;fl;jb;qt;ui;ru;fl; mǎ;wm;wm;wm;az;mm;nn;gc;wm; yī;ry;ry;ry;xk;ov;jt;wy;rh; shì;wj;wj;wj;iy;yb;zr;ym;wj;	443
 克什克腾旗	kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; shí;ru;ru;ru;xs;oj;jn;wf;ru; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; téng;om;om;om;lz;bm;vn;eu;om; qí;fb;fb;fq;ff;yc;lh;yt;fb;	426
@@ -6541,7 +6541,7 @@ sort: by_weight
 顺河回族区	shùn;iy;ir;yi;um;lo;ow;kd;ir; hé;dk;dk;dk;kj;er;kz;is;dk; huí;kk;kk;kk;no;wr;rd;lk;wk; zú;fu;fu;fu;fx;yk;lo;yt;fd; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 苏尼特右旗	sū;cb;cb;cb;zf;tc;lh;al;cb; ní;ub;ub;ub;qa;sp;cv;nx;ub; tè;nc;nc;ns;bk;hi;qk;tr;nc; yòu;uk;uk;ku,uk;so;kr;nd;dk;ak; qí;fb;fb;fq;ff;yc;lh;yt;fb;	398
 苏尼特左旗	sū;cb;cb;cb;zf;tc;lh;al;cb; ní;ub;ub;ub;qa;sp;cv;nx;ub; tè;nc;nc;ns;bk;hi;qk;tr;nc; zuǒ;ug;ug;gu,ug;sp;km;nu;da;ag; qí;fb;fb;fq;ff;yc;lh;yt;fb;	336
-塔什库尔干	tǎ;tk;tk;td,th;go;gr;gd;fa;tk; shén;ru;ru;ru;xs;oj;jn;wf;ru; kù;gi;gi;gi;rt;iq;xy;yl;gi; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; gàn;au;au;aa;ss;mj;eg;fg;au;	423
+塔什库尔干	tǎ;tk;tk;td,th;go;gr;gd;fa;tk; shí;ru;ru;ru;xs;oj;jn;wf;ru; kù;gi;gi;gi;rt;iq;xy;yl;gi; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; gàn;au;au;aa;ss;mj;eg;fg;au;	423
 土默特右旗	tǔ;ua;ua;aa;gg;gg;gt;ff;ua; mò;lq;hq;hq;nb;wk;pm;lf;hq; tè;nc;nc;ns;bk;hi;qk;tr;nc; yòu;uk;uk;ku,uk;so;kr;nd;dk;ak; qí;fb;fb;fq;ff;yc;lh;yt;fb;	343
 土默特左旗	tǔ;ua;ua;aa;gg;gg;gt;ff;ua; mò;lq;hq;hq;nb;wk;pm;lf;hq; tè;nc;nc;ns;bk;hi;qk;tr;nc; zuǒ;ug;ug;gu,ug;sp;km;nu;da;ag; qí;fb;fb;fq;ff;yc;lh;yt;fb;	348
 五大连池市	wǔ;aw;aa;aa;gg;mm;wu;gg;aa; dà;ar;un;ad;xx;kk;md;dd;an; lián;zi;zi;zi;tq;yq;yu;lp;zi; chí;dy;dy;dy;kr;ed;ke;ib;dy; shì;wj;wj;wj;iy;yb;zr;ym;wj;	333
@@ -6575,7 +6575,7 @@ sort: by_weight
 西乌珠穆沁旗	xī;ak,wk;aa;aa;pp;mw;vx;sg;aa; wū;pa;pa;pa;ud;pm;xu;qn;pa; zhū;ww;wv;wv;ae;md;na;gr;wv; mù;hp;hp;hp;uu;hh;xe;tr;hp; qìn;dx;dx;dx;kn;ep;kh;in;dx; qí;fb;fb;fq;ff;yc;lh;yt;fb;	343
 新巴尔虎右旗	xīn;lj;lj;jq;bp;yl;it;us;lj; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; hǔ;hj;hj;hj;pi;yn,yu;zh;ha;aj; yòu;uk;uk;ku,uk;so;kr;nd;dk;ak; qí;fb;fb;fq;ff;yc;lh;yt;fb;	324
 新巴尔虎左旗	xīn;lj;lj;jq;bp;yl;it;us;lj; bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; hǔ;hj;hj;hj;pi;yn,yu;zh;ha;aj; zuǒ;ug;ug;gu,ug;sp;km;nu;da;ag; qí;fb;fb;fq;ff;yc;lh;yt;fb;	331
-鹰手营子矿区	yīng;gn;gn;gn,nv;rc;im;xx;yw;gn; shǒu;pf;pl;pa,ub;oo;qq;us;rt;pv; yíng;ck;ck;cl;zo;tr;ld;ap;ck; zǐ;la;va;aa,vh;aa;nd;hi;bb;va; kuàng;ug;ug;ug;tr;mi;mx;dy;ug; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
+鹰手营子矿区	yīng;gn;gn;gn,nv;rc;im;xx;yw;gn; shǒu;pf;pl;pa,ub;oo;qq;us;rt;pv; yīng;ck;ck;cl;zo;tr;ld;ap;ck; zǐ;la;va;aa,vh;aa;nd;hi;bb;va; kuàng;ug;ug;ug;tr;mi;mx;dy;ug; qū;kx;kx;ki;dr;sk;nb;aq;kx;	1
 澳门特别行政区	ào;dd;dd;da;kx;ek;km;it;dd; mén;dv;dv;dg;oo;ls;am;uy;dv; tè;nc;nc;ns;bk;hi;qk;tr;nc; bié;kd;kd;dl;oi;rn,xn;dp;kl;kd; xíng;rd;ii;xd,xi;hs;hn;px;tf;rd; zhèng;vw;vw;wv;dj;mk;fh;gh;vw; qū;kx;kx;ki;dr;sk;nb;aq;kx;	559
 巴马瑶族自治县	bā;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; mǎ;va;va;aa,vh;zz;nm;nm;cn;va; yáo;wf;wf;wf;ap;mu,xo;na;ge;wf; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	1
 白沙黎族自治县	bái;po;po;pa,po;ss;ha;ub;rr;po; shā;du;du;du;ki;eh;kt;ii;du; lí;hu;hu;hu,ur;uo;he;xk;tq;hu; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	292
@@ -6593,7 +6593,7 @@ sort: by_weight
 大化瑶族自治县	dà;ar;un;ad;xx;kk;md;dd;an; huà;rb;rb;rb;xa;op;jv;wx;rb; yáo;wf;wf;wf;ap;mu,xo;na;ge;wf; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	1
 大理白族自治州	dà;ar;un;ad;xx;kk;md;dd;an; lǐ;wl;wl;wl;ag;mg;nd;gj;wl; bái;po;po;pa,po;ss;ha;ub;rr;po; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	439
 迪庆藏族自治州	dí;zy;zy;zy;vq;yw;du;mp;zy; qìng;gd;gd;gd;rx;ik,xk;xm;yd;gd; zàng;ci;ci;cg,ci;zh;ts;lq;ad;cg; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	367
-都安瑶族自治县	dōu;le;le;ev;gb;jl;qt;ft;ue; ān;bn;bn;bn;iy;jv;wb;pv;gn; yáo;wf;wf;wf;ap;mu,xo;na;ge;wf; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	330
+都安瑶族自治县	dū;le;le;ev;gb;jl;qt;ft;ue; ān;bn;bn;bn;iy;jv;wb;pv;gn; yáo;wf;wf;wf;ap;mu,xo;na;ge;wf; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	330
 峨边彝族自治县	é;uw;ew;uw;pa;ui;vp;mt;sg; biān;zl;zl;zl;uq;ys;su;lp;zl; yí;hc;vc;ac,cs,jc,vc;rp;vt;bl;xg;va; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	1
 峨山彝族自治县	é;uw;ew;uw;pa;ui;vp;mt;sg; shān;kl;lk;aa;pp;uu;vs;mm;aa; yí;hc;vc;ac,cs,jc,vc;rp;vt;bl;xg;va; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	1
 鄂温克族自治旗	è;ke;ke;ee,ek;ob;rl;dt;kk;ke; wēn;dm;dm;dm,dw;ka;et;ka;ij;dm; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; qí;fb;fb;fq;ff;yc;lh;yt;fb;	310
@@ -6619,7 +6619,7 @@ sort: by_weight
 科尔沁右翼中旗	kē;hd;hu;hd;us;hj;xj;tu;hu; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; qìn;dx;dx;dx;kn;ep;kh;in;dx; yòu;uk;uk;ku,uk;so;kr;nd;dk;ak; yì;xg;xb;yg,yy;df;sc;zh;nl;xb; zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; qí;fb;fb;fq;ff;yc;lh;yt;fb;	329
 科尔沁左翼后旗	kē;hd;hu;hd;us;hj;xj;tu;hu; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; qìn;dx;dx;dx;kn;ep;kh;in;dx; zuǒ;ug;ug;gu,ug;sp;km;nu;da;ag; yì;xg;xb;yg,yy;df;sc;zh;nl;xb; hòu;ik;pk;pk;uo;hr;xd;rg;pk; qí;fb;fb;fq;ff;yc;lh;yt;fb;	328
 科尔沁左翼中旗	kē;hd;hu;hd;us;hj;xj;tu;hu; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; qìn;dx;dx;dx;kn;ep;kh;in;dx; zuǒ;ug;ug;gu,ug;sp;km;nu;da;ag; yì;xg;xb;yg,yy;df;sc;zh;nl;xb; zhōng;kl;ll;aa,ka;op;ll;dg;k,kh;aa; qí;fb;fb;fq;ff;yc;lh;yt;fb;	372
-可克达拉市昆玉	kě;dk;dk;dk;jj;mr;zk;sk;av; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; lā;fl;fl;fl;jb;qt;ui;ru;fl; shì;wj;wj;wj;iy;yb;zr;ym;wj; kūn;ob;ob;ob;va;ap;ov;jx;ob; yù;wd;wd;ad,wd;aa;mi;ni;gy;wd;	1
+可克达拉市昆玉	kě;dk;dk;dk;jj;mr;zk;sk;av; kě;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; lā;fl;fl;fl;jb;qt;ui;ru;fl; shì;wj;wj;wj;iy;yb;zr;ym;wj; kūn;ob;ob;ob;va;ap;ov;jx;ob; yù;wd;wd;ad,wd;aa;mi;ni;gy;wd;	1
 宽城满族自治县	kuān;bj;be;bj,jb;ik;ju,xu;we;pa;gj; chéng;ti;ti;ti;gh;gs;ga;fd;tg; mǎn;dl;dl;dl;ke;eb;km;ia;dl; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	1
 宽甸满族自治县	kuān;bj;be;bj,jb;ik;ju,xu;we;pa;gj; diān;bt;bt;gt,tg;uw;pw;nq;ql;pt; mǎn;dl;dl;dl;ke;eb;km;ia;dl; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	323
 乐东黎族自治县	lè;px;pd;pd,px;ui;hd;by;qi;pd; dōng;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; lí;hu;hu;hu,ur;uo;he;xk;tq;hu; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	289
@@ -6736,7 +6736,7 @@ sort: by_weight
 莫力达瓦达斡尔族自治旗	mò;cd;cd;cd,ct;zx;tk;lm;aj;cd; lì;vp;vp;gp;uu;ks;sl;lt;vp; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; wǎ;ad;ad;ad;dh;mi;rw;gn;ad; dá;zd;zd;zd;xq;yk,xk;mu;dp;zd; wò;ud;uu;du,ud;ss;jj;nj;fj;uu; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; qí;fb;fb;fq;ff;yc;lh;yt;fb;	292
 前郭尔罗斯蒙古族自治县	qián;bd;bd;bd,qd;fi;tn;hp;ue;ed; guō;we;we;ex;ib;yl;gt;yb;we; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; luó;sx;sx;sx;af;wi;yl;lq;sx; sī;cj;qj;jq,qj;vp;tl;zt;ad;qj; měng;cu;cu,cn;cm,cu;zh;to;lj;ap;cn; gǔ;uk;uk;uk;so;jr;cg;dg;uk; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	320
 黔西南布依族苗族自治州	qián;lv;hv;hj;nr;wn;pa;lf;hj; xī;ak,wk;aa;aa;pp;mw;vx;sg;aa; nán;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu; bù;uj;uj;ju,uj;sy;kb;nr;dm;aj; yī;ry;ry;ry;xk;ov;jt;wy;rh; zú;fu;fu;fu;fx;yk;lo;yt;fd; miáo;ct;ct;ct;zw;tw;lq;al;ct; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; zhōu;dl;dl;id,da;hp;il;oo;yt;da;	368
-塔什库尔干塔吉克自治县	tǎ;tk;tk;td,th;go;gr;gd;fa;tk; shén;ru;ru;ru;xs;oj;jn;wf;ru; kù;gi;gi;gi;rt;iq;xy;yl;gi; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; gàn;au;au;aa;ss;mj;eg;fg;au; tǎ;tk;tk;td,th;go;gr;gd;fa;tk; jí;tk;uk;ku,uk;go;gr;gd;fk;uk; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	367
+塔什库尔干塔吉克自治县	tǎ;tk;tk;td,th;go;gr;gd;fa;tk; shí;ru;ru;ru;xs;oj;jn;wf;ru; kù;gi;gi;gi;rt;iq;xy;yl;gi; ěr;dx;dx;dx,xd;gi;nf;xy;qi;ex; gàn;au;au;aa;ss;mj;eg;fg;au; tǎ;tk;tk;td,th;go;gr;gd;fa;tk; jí;tk;uk;ku,uk;go;gr;gd;fk;uk; kè;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	367
 威宁彝族回族苗族自治县	wēi;wn;xn,ad,wn;gn,ng,wn;rh;iv;nb;dg;ng; níng;bd;bd;bd;ij;jn;wa;ps;gd; yí;hc;vc;ac,cs,jc,vc;rp;vt;bl;xg;va; zú;fu;fu;fu;fx;yk;lo;yt;fd; huí;kk;kk;kk;no;wr;rd;lk;wk; zú;fu;fu;fu;fx;yk;lo;yt;fd; miáo;ct;ct;ct;zw;tw;lq;al;ct; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	306
 孟连傣族拉祜族佤族自治县	mèng;zm;zm;mz,zm;aa;nt;ha;bl;zm; lián;zi;zi;zi;tq;yq;yu;lp;zi; dǎi;ru;ru;rt;xo;oe;jk;wd;ru; zú;fu;fu;fu;fx;yk;lo;yt;fd; lā;fl;fl;fl;jb;qt;ui;ru;fl; hù;pg;pk;ug;ho;ir;fc;py;pk; zú;fu;fu;fu;fx;yk;lo;yt;fd; wǎ;rw;rw;rw;xh;on;jr;wg;rw; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	234
 元江哈尼族彝族傣族自治县	yuán;aw;ee;aw,ee;uk;mu;mp;fq;ee; jiāng;dg;dg;dg;kp;em;ku;ia;dg; hā;kk;kk;kh;oo;rr;dd;kw;kk; ní;ub;ub;ub;qa;sp;cv;nx;ub; zú;fu;fu;fu;fx;yk;lo;yt;fd; yí;hc;vc;ac,cs,jc,vc;rp;vt;bl;xg;va; zú;fu;fu;fu;fx;yk;lo;yt;fd; dǎi;ru;ru;rt;xo;oe;jk;wd;ru; zú;fu;fu;fu;fx;yk;lo;yt;fd; zì;po;po;pa,po;ss;hu;oi;th;pm; zhì;dk;dk;dt;ko;er;kd;ic;dk; xiàn;qs;qs;sq,qs;pp;bi;fk;eg;qv;	276
