@@ -887,6 +887,7 @@ sort: by_weight
 𫄰	bāng;	1
 𫟐	bàng;	1
 𫠌	bàng;	1
+薄	báo;cc;cc;cc,cp;zk;ti;lk;ai;cc;	853
 保	bǎo;rm;rm;rd;xw;od;je;wk;rl;	820
 包	bāo;bs;bs;gs;ut;pu;nv;qn;pv;	805
 报	bào;fy;fy;fy;jl;qe;ur;rb;fy;	801
@@ -897,7 +898,6 @@ sort: by_weight
 胞	bāo;ob;os;ob;lt;bu;vv;eq;ov;	668
 饱	bǎo;ub;us;ub;gt;nu;qv;qn;uv;	665
 堡	bǎo;rt;rt;tb;xg;og;jg;wk;rt;	664
-薄	báo;cc;cc;cc,cp;zk;ti;lk;ai;cc;	653
 曝	bào;ou;ou;ob;vo;ae;ok;jj;ou;	627
 煲	bāo;rh;rh;hb;xt;of;jc;wk;rh;	611
 鲍	bào;yb;as;yb;qt;nu;wv;qg;ev;	602
@@ -13176,9 +13176,9 @@ sort: by_weight
 𩶥	hóng;yi;;yi;;ni;wc;qo;;	1
 𪈘	hōng;cn;;nh,hn;;tf;lx;al;;	1
 𪪺	hóng;	1
+厚	hòu;iz;iz;iz;ra;md;xh;dj;iz;	894
 后	hòu;ik;pk;pk;uo;hr;xd;rg;pk;	869
 候	hòu;ru;ru;ru;xx;ok;jo;wh;rd;	800
-厚	hòu;iz;iz;iz;ra;md;xh;dj;iz;	694
 侯	hóu;ru;ru;ru;xx;ok;jo;wn;rd;	611
 猴	hóu;qu;qu;qh;bx;kk;mo;qt;qd;	606
 喉	hóu;ku;ku;kh;ox;rk;do;kw;kd;	589
