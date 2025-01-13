@@ -404,7 +404,6 @@ algebra_pinyin:
   __append: 
     - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
     - xform/ń|ň|ǹ/en/ 
-    - xform/\bn\b/en/   #解决𧗈字拼音n通过双拼en打出来
     - xform/ńg|ňg|ǹg/en/
 
     - erase/^xx;.*$/
@@ -412,7 +411,6 @@ algebra_zrm:
   __append:
     - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
     - xform/ń|ň|ǹ/en/ 
-    - xform/\bn\b/en/   #解决𧗈字拼音n通过双拼en打出来
     - xform/\bng\b/eng/
     - xform/ńg|ňg|ǹg/eng/
     - derive/^([jqxy])u(;.*)$/$1v$2/
@@ -450,7 +448,6 @@ algebra_flypy:
   __append:
     - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
     - xform/ń|ň|ǹ/en/ 
-    - xform/\bn\b/en/   #解决𧗈字拼音n通过双拼en打出来
     - xform/\bng\b/eng/
     - xform/ńg|ňg|ǹg/eng/
     - derive/^([jqxy])u(;.*)$/$1v$2/
@@ -488,7 +485,6 @@ algebra_mspy:
   __append:
     - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
     - xform/ń|ň|ǹ/en/ 
-    - xform/\bn\b/en/   #解决𧗈字拼音n通过双拼en打出来
     - xform/\bng\b/eng/
     - xform/ńg|ňg|ǹg/eng/
     - derive/^([jqxy])u(;.*)$/$1v$2/
@@ -529,7 +525,6 @@ algebra_sogou:
   __append:
     - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
     - xform/ń|ň|ǹ/en/ 
-    - xform/\bn\b/en/   #解决𧗈字拼音n通过双拼en打出来
     - xform/\bng\b/eng/
     - xform/ńg|ňg|ǹg/eng/
     - derive/^([jqxy])u(;.*)$/$1v$2/

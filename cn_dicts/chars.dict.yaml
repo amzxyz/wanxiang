@@ -25523,7 +25523,6 @@ sort: by_weight
 嗯	ń;kx;kx;ke;on;rp;dh;kl;kx;	13
 嗯	ň;kx;kx;ke;on;rp;dh;kl;kx;	1
 㕶	ň;	1
-𧗈	n;	1
 𠮾	ǹ;	1
 那	nà;ve;ve;el;rb;sl;at;vf;ve;	834
 哪	nǎ;ke;ke;kn;ob;rl;dt;kv;ke;	781
@@ -26724,6 +26723,7 @@ sort: by_weight
 搙	nù;fc;;fr;;qi;uk;rd;;	92
 伮	nǔ;ry;;rn;;oe;jr;wv;;	87
 駑	nú;nm;;mn;;vf;bn;vc;;	75
+𧗈	nú;	11
 㚢	nú;rn;;nr;;ov;jb;wv;;	1
 伮	nú;ry;;rn;;oe;jr;wv;;	1
 帑	nú;nj;nj;jn;yy;vb;br;vc;nj;	1
@@ -39488,9 +39488,9 @@ sort: by_weight
 𪡛	xià;	1
 𪡛	xiā;	1
 𪾌	xiǎ;	1
+先	xiān;ne;ne;ne,en;bk;hu;qp;tf;pe;	866
 现	xiàn;wj;we;wj;ak;mu;ne;gm;wj;	857
 线	xiàn;sj;sj;sj;ea;vj;ip;xg;sg;	804
-先	xiān;ne;ne;ne,en;bk;hu;qp;tf;pe;	792
 显	xiǎn;oy;oy;oy;vd;ac;oc;jo;oy;	765
 险	xiǎn;eq;ea;ea,eq;bd;nm;tf;bw;ea;	764
 限	xiàn;eg;eg;eg;bh;nv;ti;bv;eh;	764
