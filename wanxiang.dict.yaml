@@ -20,6 +20,7 @@ import_tables:
   - cn_dicts/associational   #联想词库，5字以上词汇，多用于输入前半段第二候选可以出来整段
   - cn_dicts/corrections     #错音错字，支持错音和错字输入的兼容，同时供超级注释lua使用会在输入错误音节打出的时候给予提示
   - cn_dicts/compatible      #兼容词库，是基础词库的扩充，收录了多场景多种读音的词组
+  - cn_dicts/poetry          #诗词
 #  - cn_dicts/people          #人名
 #  - cn_dicts/division        #地名
 ...
