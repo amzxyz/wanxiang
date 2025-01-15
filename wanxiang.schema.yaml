@@ -147,7 +147,10 @@ calculator:
 # 注释太长了，请参考 pin_cand_filter.lua 开头的说明书。
 pin_cand_filter:
   # 格式：编码<Tab>字词1<Space>字词2……
+  - b	吧
   - d	的
+  - l	了
+  - m	吗
 
 #Lua 配置:长词优先
 long_word_filter:
